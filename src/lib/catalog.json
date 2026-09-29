@@ -1,0 +1,6128 @@
+[
+ {
+  "id": "uno",
+  "gameTitle": "UNO",
+  "inventoryName": "UNO",
+  "inventoryNames": [
+   "UNO"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Color Matching Cards",
+  "playerCount": "2–10",
+  "idealPlayerCount": "4–6 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.1,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 3,
+  "vibeAndConflict": "Light party",
+  "targetAudience": "First-time visitors, casual groups",
+  "minimumAge": 7,
+  "dataConfidence": "high",
+  "notes": "Current Mattel retail is ages 7+. Sheet listed 6+.",
+  "description": "Match colours or numbers and race to empty your hand — shout “UNO!” with one card left.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 10,
+   "idealMin": 4,
+   "idealMax": 6,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [
+    "compete",
+    "silly"
+   ],
+   "strongMoods": [
+    "compete"
+   ],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "cards"
+   ],
+   "groupTypes": [
+    "adults",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 2,
+   "family": "uno",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "uno-flip",
+  "gameTitle": "UNO Flip!",
+  "inventoryName": "UNO FLIP",
+  "inventoryNames": [
+   "UNO FLIP"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Color Matching Twist",
+  "playerCount": "2–10",
+  "idealPlayerCount": "4–6 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.25,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 4,
+  "vibeAndConflict": "Light party",
+  "targetAudience": "Casual groups, families",
+  "minimumAge": 7,
+  "dataConfidence": "high",
+  "notes": "Flip side adds extra action cards. Still a gateway party game.",
+  "description": "Classic UNO with a twist: flip the deck to a harsher “dark side” mid-game.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 10,
+   "idealMin": 4,
+   "idealMax": 6,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [
+    "compete",
+    "silly"
+   ],
+   "strongMoods": [
+    "compete"
+   ],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "cards"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 2,
+   "family": "uno",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "uno-show-em-no-mercy",
+  "gameTitle": "UNO: Show 'em No Mercy",
+  "inventoryName": "UNO NO MERCY",
+  "inventoryNames": [
+   "UNO NO MERCY"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Harsh Color Matching",
+  "playerCount": "2–6",
+  "idealPlayerCount": "4–5 players",
+  "estimatedPlaytime": "15–30 mins",
+  "difficulty": 2,
+  "bggComplexity": 1.48,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 5,
+  "vibeAndConflict": "High-energy party",
+  "targetAudience": "Casual groups who want sharper penalties",
+  "minimumAge": 7,
+  "dataConfidence": "high",
+  "notes": "Shorter and meaner than classic UNO. Keep away from very young children.",
+  "description": "UNO turned up to eleven — brutal draw cards and knock-outs. Loud and chaotic.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 4,
+   "idealMax": 5,
+   "minTime": 15,
+   "maxTime": 30,
+   "moods": [
+    "compete",
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [
+    "compete"
+   ],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "cards"
+   ],
+   "groupTypes": [
+    "adults",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 3,
+   "conflictLevel": 2,
+   "family": "uno",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "uno-black",
+  "gameTitle": "UNO Black",
+  "inventoryName": "UNO BLACK",
+  "inventoryNames": [
+   "UNO BLACK"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Color Matching Cards",
+  "playerCount": "2–10",
+  "idealPlayerCount": "4–6 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 1,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 3,
+  "vibeAndConflict": "Light party",
+  "targetAudience": "Casual groups",
+  "minimumAge": 7,
+  "dataConfidence": "low",
+  "notes": "No distinct ruleset verified. Treated as a black-packaged classic UNO until the box is checked. BGG weight not copied because the sheet had no link.",
+  "description": "A themed UNO edition with the same easy match-and-discard fun.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 10,
+   "idealMin": 4,
+   "idealMax": 6,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [
+    "compete",
+    "silly"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "cards"
+   ],
+   "groupTypes": [
+    "adults",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 2,
+   "family": "uno",
+   "isExpansion": false,
+   "excluded": "low-confidence"
+  }
+ },
+ {
+  "id": "mikado",
+  "gameTitle": "Mikado",
+  "inventoryName": "MIKADO",
+  "inventoryNames": [
+   "MIKADO"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Pick-up Sticks Dexterity",
+  "playerCount": "2–6",
+  "idealPlayerCount": "3–4 players",
+  "estimatedPlaytime": "10–30 mins",
+  "difficulty": 1,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 2,
+  "vibeAndConflict": "Dexterity",
+  "targetAudience": "Families, kids, first-time visitors",
+  "minimumAge": 5,
+  "dataConfidence": "medium",
+  "notes": "Sheet linked Ker Plunk, which is a different game. These stats are for Mikado / pick-up sticks. BGG weight is about 1.0–1.1; no exact live figure stored.",
+  "description": "Drop a bundle of sticks, then lift them one at a time without moving the rest.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 3,
+   "idealMax": 4,
+   "minTime": 10,
+   "maxTime": 30,
+   "moods": [
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "dexterity"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "kids",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 1,
+   "family": "mikado",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "never-have-i-ever-the-game-of-poor-life-decisions",
+  "gameTitle": "Never Have I Ever: The Game of Poor Life Decisions",
+  "inventoryName": "NEVER HAVE I EVER",
+  "inventoryNames": [
+   "NEVER HAVE I EVER"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Adult Confession Party",
+  "playerCount": "2–4",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.0,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 3,
+  "vibeAndConflict": "Adult party",
+  "targetAudience": "Adults only",
+  "minimumAge": 17,
+  "dataConfidence": "medium",
+  "notes": "Sheet age cell was an Excel date decoding to 4–12, which is not a credible age. Product is adult. Player cell decoded to 2–4. Confirm the box before offering it.",
+  "description": "Adults-only party game — excluded from recommendations.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 4,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [],
+   "strongMoods": [],
+   "interactions": [],
+   "strongInteractions": [],
+   "interests": [],
+   "groupTypes": [],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "never-have-i-ever-the-game-of-poor-life-decisions",
+   "isExpansion": false,
+   "excluded": "mature"
+  }
+ },
+ {
+  "id": "unidentified-maja-padam",
+  "gameTitle": "Unidentified: Maja Padam",
+  "inventoryName": "MAJA PADAM",
+  "inventoryNames": [
+   "MAJA PADAM"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Unknown",
+  "playerCount": "Unknown",
+  "idealPlayerCount": "Unknown",
+  "estimatedPlaytime": "Unknown",
+  "difficulty": null,
+  "bggComplexity": null,
+  "setupTime": "Unknown",
+  "tableFootprint": "Unknown",
+  "staffTeachMinutes": null,
+  "vibeAndConflict": "Unknown",
+  "targetAudience": "Unknown until the box is checked",
+  "minimumAge": null,
+  "dataConfidence": "low",
+  "notes": "No published game under this name was verified. Do not recommend until staff identify the box.",
+  "description": "No published game under this name was verified. Do not recommend until staff identify the box.",
+  "tags": {
+   "minPlayers": null,
+   "maxPlayers": null,
+   "idealMin": null,
+   "idealMax": null,
+   "minTime": null,
+   "maxTime": null,
+   "moods": [],
+   "strongMoods": [],
+   "interactions": [],
+   "strongInteractions": [],
+   "interests": [],
+   "groupTypes": [],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "unidentified-maja-padam",
+   "isExpansion": false,
+   "excluded": "low-confidence"
+  }
+ },
+ {
+  "id": "taco-cat-goat-cheese-pizza",
+  "gameTitle": "Taco Cat Goat Cheese Pizza",
+  "inventoryName": "TACO CAT GOAT CHEESE PIZZA",
+  "inventoryNames": [
+   "TACO CAT GOAT CHEESE PIZZA"
+  ],
+  "alias": null,
+  "quantity": 2,
+  "theme": "Reflex Word Slap",
+  "playerCount": "2–8",
+  "idealPlayerCount": "5–6 players",
+  "estimatedPlaytime": "10–30 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.03,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 2,
+  "vibeAndConflict": "High-energy party",
+  "targetAudience": "First-time visitors, casual groups, families",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Two copies in stock. Loud and language-light. Excellent icebreaker.",
+  "description": "Flip cards while chanting the words — slap the pile when the card matches the word!",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 8,
+   "idealMin": 5,
+   "idealMax": 6,
+   "minTime": 10,
+   "maxTime": 30,
+   "moods": [
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [
+    "silly",
+    "energetic"
+   ],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "words",
+    "dexterity"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 3,
+   "conflictLevel": 2,
+   "family": "taco-cat-goat-cheese-pizza",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "bicycle-standard-playing-cards",
+  "gameTitle": "Bicycle Standard Playing Cards",
+  "inventoryName": "BICYCLE CARDS",
+  "inventoryNames": [
+   "BICYCLE CARDS"
+  ],
+  "alias": null,
+  "quantity": 3,
+  "theme": "Traditional Card Deck",
+  "playerCount": "2–6",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "30–60 mins",
+  "difficulty": 2,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 8,
+  "vibeAndConflict": "Light strategy",
+  "targetAudience": "Casual groups, families",
+  "minimumAge": 8,
+  "dataConfidence": "medium",
+  "notes": "A component, not one game. Café default suggestion is Indian Rummy. Also supports Bluff, Memory, and Solitaire. Three decks in stock.",
+  "description": "A classic deck of cards — play Rummy, Teen Patti-style games or learn something new.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 30,
+   "maxTime": 60,
+   "moods": [
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "strategy",
+    "cards",
+    "classic"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 1,
+   "conflictLevel": 2,
+   "family": "bicycle-standard-playing-cards",
+   "isExpansion": false,
+   "excluded": "solo-activity"
+  }
+ },
+ {
+  "id": "grabolo",
+  "gameTitle": "Grabolo",
+  "inventoryName": "GRAB",
+  "inventoryNames": [
+   "GRAB"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Speed Shape Matching",
+  "playerCount": "3–5",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "20 mins",
+  "difficulty": 2,
+  "bggComplexity": 1.43,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 4,
+  "vibeAndConflict": "High-energy party",
+  "targetAudience": "Families, casual groups",
+  "minimumAge": 4,
+  "dataConfidence": "medium",
+  "notes": "Inventory name is Grab. Sheet maps it to Grabolo. Confirm the box title. Player count is the decoded sheet value.",
+  "description": "Roll the dice, then race to find and grab the matching shapes before anyone else.",
+  "tags": {
+   "minPlayers": 3,
+   "maxPlayers": 5,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 20,
+   "maxTime": 20,
+   "moods": [
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "cards",
+    "dexterity"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 3,
+   "conflictLevel": 2,
+   "family": "grabolo",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "criss-cross",
+  "gameTitle": "Criss Cross",
+  "inventoryName": "CRISS CROSS",
+  "inventoryNames": [
+   "CRISS CROSS"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Dice Number Crossing",
+  "playerCount": "1–6",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "10 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.29,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 4,
+  "vibeAndConflict": "Light strategy",
+  "targetAudience": "First-time visitors, families, solo guests",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Qwixx-style roll-and-write. Supports a solo player.",
+  "description": "Roll dice and write numbers into your grid to build scoring rows and columns.",
+  "tags": {
+   "minPlayers": 1,
+   "maxPlayers": 6,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 10,
+   "maxTime": 10,
+   "moods": [
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "strategy",
+    "cards"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 2,
+   "family": "criss-cross",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "connect-four",
+  "gameTitle": "Connect Four",
+  "inventoryName": "CONNECT 4",
+  "inventoryNames": [
+   "CONNECT 4"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Four-in-a-Row Abstract",
+  "playerCount": "2",
+  "idealPlayerCount": "2 players",
+  "estimatedPlaytime": "10 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.18,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 1,
+  "vibeAndConflict": "Abstract duel",
+  "targetAudience": "Date night, kids, first-time visitors",
+  "minimumAge": 6,
+  "dataConfidence": "high",
+  "notes": "Instant teach. Good while a larger group waits.",
+  "description": "Drop discs to get four in a row before your opponent does.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 2,
+   "idealMin": 2,
+   "idealMax": 2,
+   "minTime": 10,
+   "maxTime": 10,
+   "moods": [
+    "compete",
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "classic"
+   ],
+   "groupTypes": [
+    "adults",
+    "kids",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 3,
+   "family": "connect-four",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "dobble",
+  "gameTitle": "Dobble",
+  "inventoryName": "DOBBLE",
+  "inventoryNames": [
+   "DOBBLE"
+  ],
+  "alias": null,
+  "quantity": 2,
+  "theme": "Speed Symbol Matching",
+  "playerCount": "2–8",
+  "idealPlayerCount": "4–6 players",
+  "estimatedPlaytime": "15 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.04,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 2,
+  "vibeAndConflict": "High-energy party",
+  "targetAudience": "First-time visitors, families, kids",
+  "minimumAge": 6,
+  "dataConfidence": "high",
+  "notes": "Same game as Spot It. Two Dobble copies plus one Spot It copy.",
+  "description": "Every two cards share exactly one symbol — spot it and shout it first!",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 8,
+   "idealMin": 4,
+   "idealMax": 6,
+   "minTime": 15,
+   "maxTime": 15,
+   "moods": [
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [
+    "energetic"
+   ],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [
+    "friendly"
+   ],
+   "interests": [
+    "cards",
+    "dexterity"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "kids",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 3,
+   "conflictLevel": 2,
+   "family": "dobble",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "spot-it",
+  "gameTitle": "Spot It!",
+  "inventoryName": "SPOT IT",
+  "inventoryNames": [
+   "SPOT IT"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Speed Symbol Matching",
+  "playerCount": "2–8",
+  "idealPlayerCount": "4–6 players",
+  "estimatedPlaytime": "15 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.04,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 2,
+  "vibeAndConflict": "High-energy party",
+  "targetAudience": "First-time visitors, families, kids",
+  "minimumAge": 6,
+  "dataConfidence": "high",
+  "notes": "US name of Dobble. Same rules and same BGG entry.",
+  "description": "Every two cards share exactly one symbol — spot it first. (Likely the same game as Dobble.)",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 8,
+   "idealMin": 4,
+   "idealMax": 6,
+   "minTime": 15,
+   "maxTime": 15,
+   "moods": [
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [
+    "energetic"
+   ],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [
+    "friendly"
+   ],
+   "interests": [
+    "cards",
+    "dexterity"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "kids",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 3,
+   "conflictLevel": 2,
+   "family": "dobble",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "dish-dash",
+  "gameTitle": "Dish Dash",
+  "inventoryName": "DISH DASH",
+  "inventoryNames": [
+   "DISH DASH"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Recipe Set Collection",
+  "playerCount": "2–4",
+  "idealPlayerCount": "3 players",
+  "estimatedPlaytime": "20 mins",
+  "difficulty": 2,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 8,
+  "vibeAndConflict": "Friendly family",
+  "targetAudience": "Families, casual groups",
+  "minimumAge": 6,
+  "dataConfidence": "medium",
+  "notes": "Blue Flamingo / Shuffle card game: 2–4 players, about 20 minutes, ages 6+. Another retailer lists 2–6 and 30–45 minutes. No BGG weight. Confirm which printing is on the shelf.",
+  "description": "Race to serve dishes faster than everyone else.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 4,
+   "idealMin": 3,
+   "idealMax": 3,
+   "minTime": 20,
+   "maxTime": 20,
+   "moods": [
+    "relax"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "cards"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "dish-dash",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "scavenger-hunt",
+  "gameTitle": "Scavenger Hunt",
+  "inventoryName": "SCAVENGER HUNT",
+  "inventoryNames": [
+   "SCAVENGER HUNT"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Café Search Activity",
+  "playerCount": "2–8",
+  "idealPlayerCount": "4–6 players",
+  "estimatedPlaytime": "20–40 mins",
+  "difficulty": 1,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 3,
+  "vibeAndConflict": "High-energy party",
+  "targetAudience": "Families, kids, casual groups",
+  "minimumAge": 6,
+  "dataConfidence": "low",
+  "notes": "Not a published board game in the sheet. Treat as a café activity. Player count and time are operating assumptions.",
+  "description": "Find items and complete challenges — a great way to get moving.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 8,
+   "idealMin": 4,
+   "idealMax": 6,
+   "minTime": 20,
+   "maxTime": 40,
+   "moods": [
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [],
+   "groupTypes": [
+    "adults",
+    "family",
+    "kids",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 3,
+   "conflictLevel": 2,
+   "family": "scavenger-hunt",
+   "isExpansion": false,
+   "excluded": "low-confidence"
+  }
+ },
+ {
+  "id": "life",
+  "gameTitle": "The Game of Life",
+  "inventoryName": "THE GAME OF LIFE",
+  "inventoryNames": [
+   "THE GAME OF LIFE",
+   "LIFE"
+  ],
+  "alias": null,
+  "quantity": 3,
+  "theme": "Life-Story Roll-and-Move",
+  "playerCount": "2–6",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "60 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.17,
+  "setupTime": "Medium (3–10 mins)",
+  "tableFootprint": "Large",
+  "staffTeachMinutes": 8,
+  "vibeAndConflict": "Friendly family",
+  "targetAudience": "Families, first-time visitors",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Two copies. Long for the complexity. Familiar to non-gamers.",
+  "description": "Spin the wheel and drive through life — jobs, homes, kids and surprises.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 60,
+   "maxTime": 60,
+   "moods": [
+    "relax"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "classic"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "life",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "monopoly-deluxe-edition",
+  "gameTitle": "Monopoly: Deluxe Edition",
+  "inventoryName": "MONOPOLY DELUXE EDITION",
+  "inventoryNames": [
+   "MONOPOLY DELUXE EDITION"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Property Trading",
+  "playerCount": "2–6",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "180 mins",
+  "difficulty": 3,
+  "bggComplexity": 1.86,
+  "setupTime": "Medium (3–10 mins)",
+  "tableFootprint": "Large",
+  "staffTeachMinutes": 15,
+  "vibeAndConflict": "High-conflict strategy",
+  "targetAudience": "Families who already know Monopoly",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Sheet player cell decoded to 2–10. Current deluxe retail is 2–6, so 2–6 is used. Sheet play time is 180 minutes.",
+  "description": "Buy streets, build houses and bankrupt your friends — deluxe pieces.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 180,
+   "maxTime": 180,
+   "moods": [
+    "compete",
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "bluff",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "strategy",
+    "classic"
+   ],
+   "groupTypes": [
+    "family"
+   ],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 3,
+   "family": "monopoly",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "monopoly-electronic-banking",
+  "gameTitle": "Monopoly: Electronic Banking",
+  "inventoryName": "MONOPOLY ELECTRONIC BANKING",
+  "inventoryNames": [
+   "MONOPOLY ELECTRONIC BANKING"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Property Trading",
+  "playerCount": "2–6",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "160 mins",
+  "difficulty": 3,
+  "bggComplexity": 1.87,
+  "setupTime": "Medium (3–10 mins)",
+  "tableFootprint": "Large",
+  "staffTeachMinutes": 15,
+  "vibeAndConflict": "High-conflict strategy",
+  "targetAudience": "Families who already know Monopoly",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Bank unit shortens money handling but the session is still long. Needs a large table and a charged unit.",
+  "description": "Monopoly with a card reader instead of paper money — faster turns.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 160,
+   "maxTime": 160,
+   "moods": [
+    "compete",
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "bluff",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "strategy",
+    "classic"
+   ],
+   "groupTypes": [
+    "family"
+   ],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 3,
+   "family": "monopoly",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "monopoly-cricket",
+  "gameTitle": "Monopoly: Cricket",
+  "inventoryName": "MONOPOLY CRICKET",
+  "inventoryNames": [
+   "MONOPOLY CRICKET"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Cricket Team Trading",
+  "playerCount": "2–6",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "90–150 mins",
+  "difficulty": 3,
+  "bggComplexity": null,
+  "setupTime": "Medium (3–10 mins)",
+  "tableFootprint": "Large",
+  "staffTeachMinutes": 15,
+  "vibeAndConflict": "High-conflict strategy",
+  "targetAudience": "Families, cricket fans, first-time visitors",
+  "minimumAge": 8,
+  "dataConfidence": "medium",
+  "notes": "Hasbro India edition. Country manager stated 2–6 players. Play time was not published; estimate follows classic Monopoly. No separate BGG weight.",
+  "description": "Monopoly with a cricket theme — perfect for fans.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 90,
+   "maxTime": 150,
+   "moods": [
+    "compete",
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "bluff",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "strategy"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 3,
+   "family": "monopoly",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "monopoly",
+  "gameTitle": "Monopoly",
+  "inventoryName": "MONOPOLY CLASSIC",
+  "inventoryNames": [
+   "MONOPOLY CLASSIC"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Property Trading",
+  "playerCount": "2–6",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "90–180 mins",
+  "difficulty": 2,
+  "bggComplexity": null,
+  "setupTime": "Medium (3–10 mins)",
+  "tableFootprint": "Large",
+  "staffTeachMinutes": 12,
+  "vibeAndConflict": "High-conflict strategy",
+  "targetAudience": "Families who already know Monopoly",
+  "minimumAge": 8,
+  "dataConfidence": "medium",
+  "notes": "Standard retail Monopoly. Sheet had no BGG weight. Classic weight is commonly near 1.6; left blank rather than presenting an unverified decimal.",
+  "description": "The classic property trading game.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 90,
+   "maxTime": 180,
+   "moods": [
+    "compete",
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "bluff",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "strategy",
+    "classic"
+   ],
+   "groupTypes": [
+    "family"
+   ],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 3,
+   "family": "monopoly",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "monopoly-bid",
+  "gameTitle": "Monopoly Bid",
+  "inventoryName": "MONOPOLY BID",
+  "inventoryNames": [
+   "MONOPOLY BID"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Property Auction Cards",
+  "playerCount": "2–5",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "15–20 mins",
+  "difficulty": 2,
+  "bggComplexity": 1.36,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 6,
+  "vibeAndConflict": "Light strategy",
+  "targetAudience": "First-time visitors, families, casual groups",
+  "minimumAge": 7,
+  "dataConfidence": "high",
+  "notes": "Best Monopoly for the café. Familiar theme, short session, small footprint.",
+  "description": "A quick card game of secret bidding for properties.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 5,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 15,
+   "maxTime": 20,
+   "moods": [
+    "compete",
+    "think"
+   ],
+   "strongMoods": [
+    "compete"
+   ],
+   "interactions": [
+    "bluff",
+    "solo"
+   ],
+   "strongInteractions": [
+    "bluff"
+   ],
+   "interests": [
+    "strategy",
+    "cards",
+    "classic"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 1,
+   "conflictLevel": 2,
+   "family": "monopoly",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "fruit-fight",
+  "gameTitle": "Fruit Fight",
+  "inventoryName": "PELUSAS",
+  "inventoryNames": [
+   "PELUSAS"
+  ],
+  "alias": "Pelusas",
+  "quantity": 1,
+  "theme": "Push-Your-Luck Cards",
+  "playerCount": "2–5",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "20 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.02,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 5,
+  "vibeAndConflict": "Light party",
+  "targetAudience": "Casual groups, families",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Also published as No Mercy, HIT!, and Pelusas. Not the same game as UNO No Mercy.",
+  "description": "Take turns grabbing fruit cards and push your luck — collect the best set without getting caught out.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 5,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 20,
+   "maxTime": 20,
+   "moods": [
+    "compete",
+    "silly"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "cards"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 2,
+   "family": "fruit-fight",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "tinderblox",
+  "gameTitle": "Tinderblox",
+  "inventoryName": "TINDERBLOX",
+  "inventoryNames": [
+   "TINDERBLOX"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Stacking Dexterity",
+  "playerCount": "2–6",
+  "idealPlayerCount": "3–4 players",
+  "estimatedPlaytime": "3–15 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.0,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 2,
+  "vibeAndConflict": "Dexterity",
+  "targetAudience": "First-time visitors, date night, families",
+  "minimumAge": 6,
+  "dataConfidence": "high",
+  "notes": "Tiny, funny, and very fast. Good between larger games.",
+  "description": "Stack wobbly “flame” blocks on a campfire without toppling it.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 3,
+   "idealMax": 4,
+   "minTime": 3,
+   "maxTime": 15,
+   "moods": [
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "dexterity"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 1,
+   "family": "tinderblox",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "crazy-face-puzzle",
+  "gameTitle": "Crazy Face Puzzle",
+  "inventoryName": "CRAZY FACE PUZZLE",
+  "inventoryNames": [
+   "CRAZY FACE PUZZLE"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Face Puzzle",
+  "playerCount": "1",
+  "idealPlayerCount": "1 player",
+  "estimatedPlaytime": "15–30 mins",
+  "difficulty": 1,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 1,
+  "vibeAndConflict": "Puzzle",
+  "targetAudience": "Kids, solo guests",
+  "minimumAge": null,
+  "dataConfidence": "low",
+  "notes": "Specific publisher and piece count were not verified. Solo table activity.",
+  "description": "Mix-and-match face puzzle — great for little ones.",
+  "tags": {
+   "minPlayers": 1,
+   "maxPlayers": 1,
+   "idealMin": 1,
+   "idealMax": 1,
+   "minTime": 15,
+   "maxTime": 30,
+   "moods": [
+    "relax"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "friendly"
+   ],
+   "strongInteractions": [],
+   "interests": [],
+   "groupTypes": [
+    "kids"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "crazy-face-puzzle",
+   "isExpansion": false,
+   "excluded": "solo-activity"
+  }
+ },
+ {
+  "id": "truth-or-dare",
+  "gameTitle": "Truth or Dare",
+  "inventoryName": "TRUTH OR DARE",
+  "inventoryNames": [
+   "TRUTH OR DARE"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Adult Dare Party",
+  "playerCount": "3–10",
+  "idealPlayerCount": "6 players",
+  "estimatedPlaytime": "20–40 mins",
+  "difficulty": 1,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 2,
+  "vibeAndConflict": "Adult party",
+  "targetAudience": "Adults only",
+  "minimumAge": 17,
+  "dataConfidence": "low",
+  "notes": "Edition not identified. Stats are for a generic adult party version. Exclude from family recommendations.",
+  "description": "Adults-only party game — excluded from recommendations.",
+  "tags": {
+   "minPlayers": 3,
+   "maxPlayers": 10,
+   "idealMin": 6,
+   "idealMax": 6,
+   "minTime": 20,
+   "maxTime": 40,
+   "moods": [],
+   "strongMoods": [],
+   "interactions": [],
+   "strongInteractions": [],
+   "interests": [],
+   "groupTypes": [],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "truth-or-dare",
+   "isExpansion": false,
+   "excluded": "mature"
+  }
+ },
+ {
+  "id": "pit",
+  "gameTitle": "Pit",
+  "inventoryName": "PIT",
+  "inventoryNames": [
+   "PIT"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Commodity Card Scramble",
+  "playerCount": "3–8",
+  "idealPlayerCount": "6 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 1,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 4,
+  "vibeAndConflict": "High-energy party",
+  "targetAudience": "Casual groups, families",
+  "minimumAge": 7,
+  "dataConfidence": "medium",
+  "notes": "Classic open-outcry card game. No weight was stored in the sheet. Loud; seat away from quiet tables.",
+  "description": "Loud trading frenzy: shout offers and swap cards to corner the market.",
+  "tags": {
+   "minPlayers": 3,
+   "maxPlayers": 8,
+   "idealMin": 6,
+   "idealMax": 6,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "cards"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 3,
+   "conflictLevel": 2,
+   "family": "pit",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "scattergories",
+  "gameTitle": "Scattergories",
+  "inventoryName": "SCATTERGORIES",
+  "inventoryNames": [
+   "SCATTERGORIES"
+  ],
+  "alias": null,
+  "quantity": 2,
+  "theme": "Category Word Race",
+  "playerCount": "2–6",
+  "idealPlayerCount": "4–6 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 2,
+  "bggComplexity": 1.36,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 4,
+  "vibeAndConflict": "Word party",
+  "targetAudience": "Casual groups, families, teens",
+  "minimumAge": 12,
+  "dataConfidence": "high",
+  "notes": "Two copies. Needs comfortable English vocabulary.",
+  "description": "Think of words in categories that start with the same letter — only unique answers score.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 4,
+   "idealMax": 6,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [
+    "silly"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "teams"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "words"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 1,
+   "family": "scattergories",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "think-a-link",
+  "gameTitle": "Think-A-Link",
+  "inventoryName": "THINK AND LINK",
+  "inventoryNames": [
+   "THINK AND LINK"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Creative Problem Cards",
+  "playerCount": "2–4",
+  "idealPlayerCount": "3 players",
+  "estimatedPlaytime": "20 mins",
+  "difficulty": 1,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 5,
+  "vibeAndConflict": "Friendly family",
+  "targetAudience": "Families, kids",
+  "minimumAge": 5,
+  "dataConfidence": "low",
+  "notes": "Probable match is Trunk Works Think-A-Link, ages 5+, 2–4 players. Play time is estimated. Confirm the publisher on the box.",
+  "description": "A word-association game — link ideas together.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 4,
+   "idealMin": 3,
+   "idealMax": 3,
+   "minTime": 20,
+   "maxTime": 20,
+   "moods": [
+    "relax"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "cards",
+    "creative"
+   ],
+   "groupTypes": [
+    "family",
+    "kids"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "think-a-link",
+   "isExpansion": false,
+   "excluded": "low-confidence"
+  }
+ },
+ {
+  "id": "fletter",
+  "gameTitle": "Fletter",
+  "inventoryName": "FLETTER",
+  "inventoryNames": [
+   "FLETTER"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Word Dice Race",
+  "playerCount": "2–4",
+  "idealPlayerCount": "3 players",
+  "estimatedPlaytime": "20 mins",
+  "difficulty": 2,
+  "bggComplexity": 1.33,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 5,
+  "vibeAndConflict": "Word party",
+  "targetAudience": "Casual groups, families",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Short word game. English spelling matters.",
+  "description": "A quick word game.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 4,
+   "idealMin": 3,
+   "idealMax": 3,
+   "minTime": 20,
+   "maxTime": 20,
+   "moods": [
+    "silly"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "teams"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "words",
+    "cards"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 1,
+   "family": "fletter",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "rook",
+  "gameTitle": "Rook",
+  "inventoryName": "ROOK",
+  "inventoryNames": [
+   "ROOK"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Trick-Taking Cards",
+  "playerCount": "2–6",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "45 mins",
+  "difficulty": 3,
+  "bggComplexity": 1.87,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 12,
+  "vibeAndConflict": "Light strategy",
+  "targetAudience": "Casual groups who know cards",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Traditional trick-taker. Teach is longer for guests who have never taken tricks.",
+  "description": "A classic trick-taking card game played in partnerships.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 45,
+   "maxTime": 45,
+   "moods": [
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "strategy",
+    "cards"
+   ],
+   "groupTypes": [
+    "adults",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 2,
+   "family": "rook",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "pictionary",
+  "gameTitle": "Pictionary",
+  "inventoryName": "PICTIONARY",
+  "inventoryNames": [
+   "PICTIONARY"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Team Drawing Party",
+  "playerCount": "3–16",
+  "idealPlayerCount": "6–8 players",
+  "estimatedPlaytime": "90 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.22,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Large",
+  "staffTeachMinutes": 4,
+  "vibeAndConflict": "High-energy party",
+  "targetAudience": "Casual groups, families, large groups",
+  "minimumAge": 12,
+  "dataConfidence": "high",
+  "notes": "Long if all categories are played. Staff can run a 30-minute shortened round.",
+  "description": "Draw clues for your team to guess — no art skill needed, the worse the funnier.",
+  "tags": {
+   "minPlayers": 3,
+   "maxPlayers": 16,
+   "idealMin": 6,
+   "idealMax": 8,
+   "minTime": 90,
+   "maxTime": 90,
+   "moods": [
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [
+    "silly"
+   ],
+   "interactions": [
+    "coop",
+    "solo",
+    "teams"
+   ],
+   "strongInteractions": [
+    "coop",
+    "teams"
+   ],
+   "interests": [
+    "creative"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "large",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 3,
+   "conflictLevel": 2,
+   "family": "pictionary",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "sleeping-monsters",
+  "gameTitle": "Sleeping Monsters",
+  "inventoryName": "SLEEPING MONSTERS",
+  "inventoryNames": [
+   "SLEEPING MONSTERS"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Quiet Dexterity Race",
+  "playerCount": "2–5",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "20 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.0,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 4,
+  "vibeAndConflict": "Dexterity",
+  "targetAudience": "Families, kids",
+  "minimumAge": 5,
+  "dataConfidence": "high",
+  "notes": "Real-time and silly, but the joke is staying quiet.",
+  "description": "A gentle card game about monsters you must not wake.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 5,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 20,
+   "maxTime": 20,
+   "moods": [
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "dexterity"
+   ],
+   "groupTypes": [
+    "family",
+    "kids"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 1,
+   "family": "sleeping-monsters",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "trivial-pursuit-harry-potter-volume-1",
+  "gameTitle": "Trivial Pursuit: Harry Potter – Volume 1",
+  "inventoryName": "TRIVIAL PURSUIT HARRY POTTER",
+  "inventoryNames": [
+   "TRIVIAL PURSUIT HARRY POTTER"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Fandom Trivia",
+  "playerCount": "2–6",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "30–60 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.17,
+  "setupTime": "Medium (3–10 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 5,
+  "vibeAndConflict": "Friendly family",
+  "targetAudience": "Harry Potter fans, casual groups",
+  "minimumAge": 12,
+  "dataConfidence": "high",
+  "notes": "Only works if the group knows the films or books.",
+  "description": "Wizarding-world trivia — for Harry Potter fans.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 30,
+   "maxTime": 60,
+   "moods": [
+    "relax"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "words",
+    "adventure"
+   ],
+   "groupTypes": [
+    "adults",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "trivial-pursuit",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "trivial-pursuit-friends",
+  "gameTitle": "Trivial Pursuit: Friends",
+  "inventoryName": "TRIVIAL PURSUIT FRIENDS",
+  "inventoryNames": [
+   "TRIVIAL PURSUIT FRIENDS"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Fandom Trivia",
+  "playerCount": "2–6",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "30–60 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.2,
+  "setupTime": "Medium (3–10 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 5,
+  "vibeAndConflict": "Friendly family",
+  "targetAudience": "Friends fans, casual groups",
+  "minimumAge": 12,
+  "dataConfidence": "medium",
+  "notes": "Sheet player cell said 2-66, treated as a typo for 2–6. Play time was blank and is estimated from the Harry Potter edition.",
+  "description": "Trivia all about the TV show Friends.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 30,
+   "maxTime": 60,
+   "moods": [
+    "relax"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "words",
+    "adventure"
+   ],
+   "groupTypes": [
+    "adults",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "trivial-pursuit",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "flip-7",
+  "gameTitle": "Flip 7",
+  "inventoryName": "FLIP 7",
+  "inventoryNames": [
+   "FLIP 7"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Push-Your-Luck Cards",
+  "playerCount": "3–18",
+  "idealPlayerCount": "4–6 players",
+  "estimatedPlaytime": "20 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.03,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 4,
+  "vibeAndConflict": "Light party",
+  "targetAudience": "First-time visitors, casual groups, large groups",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Unusual high player cap. Good when several tables merge.",
+  "description": "Push your luck: flip cards for points, but a duplicate number busts you.",
+  "tags": {
+   "minPlayers": 3,
+   "maxPlayers": 18,
+   "idealMin": 4,
+   "idealMax": 6,
+   "minTime": 20,
+   "maxTime": 20,
+   "moods": [
+    "compete",
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [
+    "energetic"
+   ],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [
+    "solo"
+   ],
+   "interests": [
+    "cards"
+   ],
+   "groupTypes": [
+    "adults",
+    "large",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 2,
+   "family": "flip-7",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "can-t-stop",
+  "gameTitle": "Can't Stop",
+  "inventoryName": "CAN'T STOP",
+  "inventoryNames": [
+   "CAN'T STOP"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Push-Your-Luck Dice",
+  "playerCount": "2–4",
+  "idealPlayerCount": "3 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 2,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 6,
+  "vibeAndConflict": "Light strategy",
+  "targetAudience": "Casual groups, date night",
+  "minimumAge": 9,
+  "dataConfidence": "medium",
+  "notes": "Sid Sackson classic. Publisher count is 2–4 and about 30 minutes. Sheet had no weight, so none is invented.",
+  "description": "Roll dice and race up columns — keep rolling for more progress or stop before you bust.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 4,
+   "idealMin": 3,
+   "idealMax": 3,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "strategy",
+    "cards"
+   ],
+   "groupTypes": [
+    "adults",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 1,
+   "conflictLevel": 2,
+   "family": "can-t-stop",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "rapid-rumble",
+  "gameTitle": "Rapid Rumble",
+  "inventoryName": "RAPID RUMBLE",
+  "inventoryNames": [
+   "RAPID RUMBLE"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Speed Category Race",
+  "playerCount": "2–5",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "20–45 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.0,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 4,
+  "vibeAndConflict": "Word party",
+  "targetAudience": "Families, casual groups",
+  "minimumAge": 6,
+  "dataConfidence": "high",
+  "notes": "Skillmatics-style speed categories. English helps.",
+  "description": "A fast-paced reaction game.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 5,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 20,
+   "maxTime": 45,
+   "moods": [
+    "silly"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "teams"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "words",
+    "dexterity"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 1,
+   "family": "rapid-rumble",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "pilo-pilo",
+  "gameTitle": "Pilo Pilo",
+  "inventoryName": "PILO PILO",
+  "inventoryNames": [
+   "PILO PILO"
+  ],
+  "alias": "Night Knight",
+  "quantity": 1,
+  "theme": "Pillow-Fight Reflex",
+  "playerCount": "3–6",
+  "idealPlayerCount": "4–5 players",
+  "estimatedPlaytime": "15 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.0,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 4,
+  "vibeAndConflict": "High-energy party",
+  "targetAudience": "Casual groups, families, teens",
+  "minimumAge": 6,
+  "dataConfidence": "high",
+  "notes": "European title of Night Knight. Needs a little open space for the mini pillows.",
+  "description": "Knights sneak around a pillow fort at night — spot the right piece and grab it before anyone else.",
+  "tags": {
+   "minPlayers": 3,
+   "maxPlayers": 6,
+   "idealMin": 4,
+   "idealMax": 5,
+   "minTime": 15,
+   "maxTime": 15,
+   "moods": [
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [
+    "silly",
+    "energetic"
+   ],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "dexterity",
+    "adventure"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 3,
+   "conflictLevel": 2,
+   "family": "pilo-pilo",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "mahjong-go",
+  "gameTitle": "Mahjong Go!",
+  "inventoryName": "MAHJONG GO",
+  "inventoryNames": [
+   "MAHJONG GO"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Mahjong Card Adaptation",
+  "playerCount": "4",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "45–90 mins",
+  "difficulty": 3,
+  "bggComplexity": null,
+  "setupTime": "Medium (3–10 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 25,
+  "vibeAndConflict": "Light strategy",
+  "targetAudience": "Casual groups, traditional-game players",
+  "minimumAge": 10,
+  "dataConfidence": "medium",
+  "notes": "Card version sold in India for 4 players. Rules are simpler to set up than tiles, but the teach is still one of the longer ones. No BGG weight verified.",
+  "description": "A friendly, faster take on tile-matching Mahjong.",
+  "tags": {
+   "minPlayers": 4,
+   "maxPlayers": 4,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 45,
+   "maxTime": 90,
+   "moods": [
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "strategy",
+    "cards"
+   ],
+   "groupTypes": [
+    "adults",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 2,
+   "family": "mahjong-go",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "exploding-kittens",
+  "gameTitle": "Exploding Kittens",
+  "inventoryName": "EXPLODING KITTENS",
+  "inventoryNames": [
+   "EXPLODING KITTENS"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Push-Your-Luck Cards",
+  "playerCount": "2–5",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "15 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.08,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 5,
+  "vibeAndConflict": "Light party",
+  "targetAudience": "First-time visitors, casual groups",
+  "minimumAge": 7,
+  "dataConfidence": "high",
+  "notes": "Very easy sell. Mild take-that, not a deep strategy game.",
+  "description": "Draw cards and avoid the exploding kitten — or use tricks to survive.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 5,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 15,
+   "maxTime": 15,
+   "moods": [
+    "compete",
+    "silly"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "bluff",
+    "solo"
+   ],
+   "strongInteractions": [
+    "bluff"
+   ],
+   "interests": [
+    "cards"
+   ],
+   "groupTypes": [
+    "adults",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 2,
+   "family": "exploding-kittens",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "exploding-kittens-good-vs-evil",
+  "gameTitle": "Exploding Kittens: Good vs Evil",
+  "inventoryName": "EXPLODING KITTENS GOOD VS EVIL",
+  "inventoryNames": [
+   "EXPLODING KITTENS GOOD VS EVIL"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Team Push-Your-Luck",
+  "playerCount": "2–5",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "15 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.25,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 7,
+  "vibeAndConflict": "Light party",
+  "targetAudience": "Casual groups who want teams",
+  "minimumAge": 7,
+  "dataConfidence": "high",
+  "notes": "Adds teams to Exploding Kittens. Teach the base idea first.",
+  "description": "Exploding Kittens with angelic and devilish new powers.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 5,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 15,
+   "maxTime": 15,
+   "moods": [
+    "compete",
+    "silly"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "cards"
+   ],
+   "groupTypes": [
+    "adults",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 2,
+   "conflictLevel": 2,
+   "family": "exploding-kittens",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "sushi-go",
+  "gameTitle": "Sushi Go!",
+  "inventoryName": "SUSHI GO",
+  "inventoryNames": [
+   "SUSHI GO"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Sushi Drafting",
+  "playerCount": "2–5",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "15 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.16,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 6,
+  "vibeAndConflict": "Light strategy",
+  "targetAudience": "First-time visitors, date night, families",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Best first drafting game in the collection.",
+  "description": "Pick a card, pass the rest — build the tastiest sushi meal.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 5,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 15,
+   "maxTime": 15,
+   "moods": [
+    "relax",
+    "think"
+   ],
+   "strongMoods": [
+    "relax"
+   ],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [
+    "solo"
+   ],
+   "interests": [
+    "strategy",
+    "adventure"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 1,
+   "conflictLevel": 2,
+   "family": "sushi-go",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "sushi-go-party",
+  "gameTitle": "Sushi Go Party!",
+  "inventoryName": "SUSHI GO PARTY",
+  "inventoryNames": [
+   "SUSHI GO PARTY"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Sushi Drafting",
+  "playerCount": "2–8",
+  "idealPlayerCount": "5 players",
+  "estimatedPlaytime": "20 mins",
+  "difficulty": 2,
+  "bggComplexity": 1.32,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 8,
+  "vibeAndConflict": "Light strategy",
+  "targetAudience": "Casual groups, larger tables",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Use a recommended menu rather than explaining every tile on the first teach.",
+  "description": "The bigger Sushi Go with more dishes and room for 8.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 8,
+   "idealMin": 5,
+   "idealMax": 5,
+   "minTime": 20,
+   "maxTime": 20,
+   "moods": [
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "strategy",
+    "adventure"
+   ],
+   "groupTypes": [
+    "adults",
+    "large",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 1,
+   "conflictLevel": 2,
+   "family": "sushi-go",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "organattack",
+  "gameTitle": "OrganATTACK!",
+  "inventoryName": "ORGAN ATTACK",
+  "inventoryNames": [
+   "ORGAN ATTACK"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Body-Part Take-That",
+  "playerCount": "2–6",
+  "idealPlayerCount": "4–5 players",
+  "estimatedPlaytime": "15 mins",
+  "difficulty": 2,
+  "bggComplexity": 1.55,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 6,
+  "vibeAndConflict": "High-energy party",
+  "targetAudience": "Teens, casual groups",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Silly medical take-that. Fine for families; gross-out humor is the point.",
+  "description": "A cheeky medical card game — build healthy organs and attack others’.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 4,
+   "idealMax": 5,
+   "minTime": 15,
+   "maxTime": 15,
+   "moods": [
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "bluff",
+    "solo"
+   ],
+   "strongInteractions": [
+    "bluff"
+   ],
+   "interests": [
+    "cards"
+   ],
+   "groupTypes": [
+    "adults",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 3,
+   "conflictLevel": 2,
+   "family": "organattack",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "loot",
+  "gameTitle": "Loot",
+  "inventoryName": "LOOT",
+  "inventoryNames": [
+   "LOOT"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Pirate Trick-Taking",
+  "playerCount": "2–8",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "20 mins",
+  "difficulty": 2,
+  "bggComplexity": 1.38,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 8,
+  "vibeAndConflict": "Light strategy",
+  "targetAudience": "Casual groups, families",
+  "minimumAge": 10,
+  "dataConfidence": "high",
+  "notes": "Short trick-taking with a pirate theme. Good step up from UNO.",
+  "description": "Pirates! Send ships to grab merchant loot and battle rivals for it.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 8,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 20,
+   "maxTime": 20,
+   "moods": [
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "strategy",
+    "adventure"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 1,
+   "conflictLevel": 2,
+   "family": "loot",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "jaipur",
+  "gameTitle": "Jaipur",
+  "inventoryName": "JAIPUR",
+  "inventoryNames": [
+   "JAIPUR"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Market Card Duel",
+  "playerCount": "2",
+  "idealPlayerCount": "2 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 2,
+  "bggComplexity": 1.46,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 8,
+  "vibeAndConflict": "Light strategy",
+  "targetAudience": "Date night, pairs",
+  "minimumAge": 10,
+  "dataConfidence": "high",
+  "notes": "Two players only. One of the best first strategy games for a pair.",
+  "description": "Two merchants in Jaipur trade spices and silk to become the Maharaja’s trader.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 2,
+   "idealMin": 2,
+   "idealMax": 2,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [
+    "compete",
+    "think"
+   ],
+   "strongMoods": [
+    "compete",
+    "think"
+   ],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "strategy",
+    "cards"
+   ],
+   "groupTypes": [
+    "adults"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 1,
+   "conflictLevel": 2,
+   "family": "jaipur",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "taboo",
+  "gameTitle": "Taboo",
+  "inventoryName": "TABOO",
+  "inventoryNames": [
+   "TABOO"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Forbidden-Word Party",
+  "playerCount": "4–10",
+  "idealPlayerCount": "6 players",
+  "estimatedPlaytime": "20 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.2,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 4,
+  "vibeAndConflict": "Word party",
+  "targetAudience": "Casual groups, families, large groups",
+  "minimumAge": 12,
+  "dataConfidence": "medium",
+  "notes": "Sheet decoded to 2–10. Practical team play starts at 4. Needs spoken English.",
+  "description": "Get your team to guess the word without saying the forbidden words.",
+  "tags": {
+   "minPlayers": 4,
+   "maxPlayers": 10,
+   "idealMin": 6,
+   "idealMax": 6,
+   "minTime": 20,
+   "maxTime": 20,
+   "moods": [
+    "silly"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "coop",
+    "teams"
+   ],
+   "strongInteractions": [
+    "coop",
+    "teams"
+   ],
+   "interests": [
+    "words"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "large",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 1,
+   "family": "taboo",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "guess-in-10",
+  "gameTitle": "Guess in 10",
+  "inventoryName": "GUESS IN 10",
+  "inventoryNames": [
+   "GUESS IN 10"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Yes-or-No Trivia",
+  "playerCount": "2–6",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "20–30 mins",
+  "difficulty": 1,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 5,
+  "vibeAndConflict": "Friendly family",
+  "targetAudience": "Families, kids, casual groups",
+  "minimumAge": 8,
+  "dataConfidence": "medium",
+  "notes": "Skillmatics line. Edition was not specified. Card editions are 2–6 and about 20 minutes; the board edition is about 30 minutes.",
+  "description": "Ask up to 10 yes/no questions to guess the mystery card.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 20,
+   "maxTime": 30,
+   "moods": [
+    "relax"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "words"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "kids",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "guess-in-10",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "coup",
+  "gameTitle": "Coup",
+  "inventoryName": "COUP",
+  "inventoryNames": [
+   "COUP"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Bluffing Deduction",
+  "playerCount": "2–6",
+  "idealPlayerCount": "5 players",
+  "estimatedPlaytime": "15 mins",
+  "difficulty": 2,
+  "bggComplexity": 1.42,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 6,
+  "vibeAndConflict": "Bluffing",
+  "targetAudience": "Casual groups, teens, date night",
+  "minimumAge": 13,
+  "dataConfidence": "high",
+  "notes": "Best at 5. Two players works but is a different, sharper game. Sheet age is 13+.",
+  "description": "Secret roles and bold lies — bluff your way to be the last one standing.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 5,
+   "idealMax": 5,
+   "minTime": 15,
+   "maxTime": 15,
+   "moods": [
+    "compete"
+   ],
+   "strongMoods": [
+    "compete"
+   ],
+   "interactions": [
+    "bluff"
+   ],
+   "strongInteractions": [
+    "bluff"
+   ],
+   "interests": [
+    "mystery"
+   ],
+   "groupTypes": [
+    "adults",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 2,
+   "conflictLevel": 3,
+   "family": "coup",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "hexpert",
+  "gameTitle": "Hexpert",
+  "inventoryName": "HEXPERT",
+  "inventoryNames": [
+   "HEXPERT"
+  ],
+  "alias": "Take It Easy!",
+  "quantity": 1,
+  "theme": "Hex Line Puzzle",
+  "playerCount": "1–4",
+  "idealPlayerCount": "2–4 players",
+  "estimatedPlaytime": "20 mins",
+  "difficulty": 2,
+  "bggComplexity": 1.49,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 6,
+  "vibeAndConflict": "Low-conflict abstract",
+  "targetAudience": "Families, solo guests, date night",
+  "minimumAge": 7,
+  "dataConfidence": "high",
+  "notes": "Indian edition of Take it Easy!. Weight is the BGG weight for Take it Easy!. Almost no interaction.",
+  "description": "Hexpert (Take It Easy!): everyone places the same hex tiles on their own board to build long, matching lines.",
+  "tags": {
+   "minPlayers": 1,
+   "maxPlayers": 4,
+   "idealMin": 2,
+   "idealMax": 4,
+   "minTime": 20,
+   "maxTime": 20,
+   "moods": [
+    "relax",
+    "think"
+   ],
+   "strongMoods": [
+    "relax"
+   ],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "classic"
+   ],
+   "groupTypes": [
+    "adults",
+    "family"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "hexpert",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "grab-that-dino",
+  "gameTitle": "Grab That Dino",
+  "inventoryName": "GRAB THAT DINO",
+  "inventoryNames": [
+   "GRAB THAT DINO"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Dino Reflex Grab",
+  "playerCount": "3–8",
+  "idealPlayerCount": "5–6 players",
+  "estimatedPlaytime": "10–20 mins",
+  "difficulty": 1,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 3,
+  "vibeAndConflict": "High-energy party",
+  "targetAudience": "First-time visitors, families, casual groups",
+  "minimumAge": 6,
+  "dataConfidence": "high",
+  "notes": "Publisher and Indian retailers agree on 3–8 players and 10–20 minutes. Sheet had no weight.",
+  "description": "A fast dino-grabbing game for young kids.",
+  "tags": {
+   "minPlayers": 3,
+   "maxPlayers": 8,
+   "idealMin": 5,
+   "idealMax": 6,
+   "minTime": 10,
+   "maxTime": 20,
+   "moods": [
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [
+    "silly",
+    "energetic"
+   ],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "dexterity",
+    "adventure"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 3,
+   "conflictLevel": 2,
+   "family": "grab-that-dino",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "sequence",
+  "gameTitle": "Sequence",
+  "inventoryName": "SEQUENCE",
+  "inventoryNames": [
+   "SEQUENCE"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Card Grid Connection",
+  "playerCount": "2–12",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "10–30 mins",
+  "difficulty": 2,
+  "bggComplexity": 1.31,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 6,
+  "vibeAndConflict": "Friendly family",
+  "targetAudience": "Families, casual groups, large groups",
+  "minimumAge": 7,
+  "dataConfidence": "high",
+  "notes": "Plays teams at higher counts. Familiar for non-gamers.",
+  "description": "Play cards to claim spaces on the board and make rows of five with your team.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 12,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 10,
+   "maxTime": 30,
+   "moods": [
+    "compete",
+    "relax"
+   ],
+   "strongMoods": [
+    "relax",
+    "compete"
+   ],
+   "interactions": [
+    "coop",
+    "friendly",
+    "solo",
+    "teams"
+   ],
+   "strongInteractions": [
+    "coop",
+    "teams"
+   ],
+   "interests": [
+    "cards"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "large",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "sequence",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "first-to-5",
+  "gameTitle": "First to 5!",
+  "inventoryName": "FIRST TO 5",
+  "inventoryNames": [
+   "FIRST TO 5"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Speed Category Writing",
+  "playerCount": "2–8",
+  "idealPlayerCount": "5–6 players",
+  "estimatedPlaytime": "15–25 mins",
+  "difficulty": 1,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 4,
+  "vibeAndConflict": "Word party",
+  "targetAudience": "Families, casual groups",
+  "minimumAge": 8,
+  "dataConfidence": "medium",
+  "notes": "Skillmatics writing game: 2–8 players, ages 8+. Duration is estimated from the race-round structure. Needs pens and a table.",
+  "description": "A quick race game — first to five wins.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 8,
+   "idealMin": 5,
+   "idealMax": 6,
+   "minTime": 15,
+   "maxTime": 25,
+   "moods": [
+    "silly"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "teams"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "words",
+    "dexterity"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 1,
+   "family": "first-to-5",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "the-fox-in-the-forest",
+  "gameTitle": "The Fox in the Forest",
+  "inventoryName": "FOX IN THE FOREST",
+  "inventoryNames": [
+   "FOX IN THE FOREST"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Two-Player Trick-Taking",
+  "playerCount": "2",
+  "idealPlayerCount": "2 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 2,
+  "bggComplexity": 1.61,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 10,
+  "vibeAndConflict": "Light strategy",
+  "targetAudience": "Date night, pairs",
+  "minimumAge": 10,
+  "dataConfidence": "high",
+  "notes": "Excellent pair game. Teach is a little longer because of the trump and special cards.",
+  "description": "A clever two-player trick-taking card game with fairy-tale powers.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 2,
+   "idealMin": 2,
+   "idealMax": 2,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "strategy"
+   ],
+   "groupTypes": [
+    "adults"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 1,
+   "conflictLevel": 2,
+   "family": "the-fox-in-the-forest",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "traitor-tots",
+  "gameTitle": "Traitor Tots",
+  "inventoryName": "TRAITOR TOTS",
+  "inventoryNames": [
+   "TRAITOR TOTS"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Hidden-Role Deduction",
+  "playerCount": "3–10",
+  "idealPlayerCount": "6–8 players",
+  "estimatedPlaytime": "25 mins",
+  "difficulty": 2,
+  "bggComplexity": 1.8,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 10,
+  "vibeAndConflict": "Social deduction",
+  "targetAudience": "Casual groups, teens, larger groups",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Hidden traitor. Explain winning conditions slowly, then let them play.",
+  "description": "Secret traitors among cute characters — bluff and sniff them out.",
+  "tags": {
+   "minPlayers": 3,
+   "maxPlayers": 10,
+   "idealMin": 6,
+   "idealMax": 8,
+   "minTime": 25,
+   "maxTime": 25,
+   "moods": [
+    "mystery",
+    "silly"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "bluff"
+   ],
+   "strongInteractions": [
+    "bluff"
+   ],
+   "interests": [
+    "mystery"
+   ],
+   "groupTypes": [
+    "adults",
+    "large",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 2,
+   "conflictLevel": 2,
+   "family": "traitor-tots",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "pun-intended",
+  "gameTitle": "Pun Intended",
+  "inventoryName": "PUN INTENDED",
+  "inventoryNames": [
+   "PUN INTENDED"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Pun-Writing Party",
+  "playerCount": "4–12",
+  "idealPlayerCount": "6–8 players",
+  "estimatedPlaytime": "60 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.25,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 5,
+  "vibeAndConflict": "Word party",
+  "targetAudience": "Casual groups who enjoy wordplay",
+  "minimumAge": 13,
+  "dataConfidence": "high",
+  "notes": "English puns. Weak fit if the group is not comfortable joking in English.",
+  "description": "Wordplay party game — build puns to make your team guess.",
+  "tags": {
+   "minPlayers": 4,
+   "maxPlayers": 12,
+   "idealMin": 6,
+   "idealMax": 8,
+   "minTime": 60,
+   "maxTime": 60,
+   "moods": [
+    "silly"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "teams"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "words",
+    "creative"
+   ],
+   "groupTypes": [
+    "adults",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 1,
+   "family": "pun-intended",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "unidentified-dash",
+  "gameTitle": "Unidentified: Dash",
+  "inventoryName": "DASH",
+  "inventoryNames": [
+   "DASH"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Unknown",
+  "playerCount": "Unknown",
+  "idealPlayerCount": "Unknown",
+  "estimatedPlaytime": "Unknown",
+  "difficulty": null,
+  "bggComplexity": null,
+  "setupTime": "Unknown",
+  "tableFootprint": "Unknown",
+  "staffTeachMinutes": null,
+  "vibeAndConflict": "Unknown",
+  "targetAudience": "Unknown until the box is checked",
+  "minimumAge": null,
+  "dataConfidence": "low",
+  "notes": "Several unrelated games use this name. Do not assign stats until the box is identified.",
+  "description": "A fast racing reaction game.",
+  "tags": {
+   "minPlayers": null,
+   "maxPlayers": null,
+   "idealMin": null,
+   "idealMax": null,
+   "minTime": null,
+   "maxTime": null,
+   "moods": [],
+   "strongMoods": [],
+   "interactions": [],
+   "strongInteractions": [],
+   "interests": [],
+   "groupTypes": [],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "unidentified-dash",
+   "isExpansion": false,
+   "excluded": "low-confidence"
+  }
+ },
+ {
+  "id": "dixit",
+  "gameTitle": "Dixit",
+  "inventoryName": "DIXIT",
+  "inventoryNames": [
+   "DIXIT"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Storytelling Pictures",
+  "playerCount": "3–6",
+  "idealPlayerCount": "5–6 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.19,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 5,
+  "vibeAndConflict": "Low-conflict party",
+  "targetAudience": "First-time visitors, families, date night",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Language-light. Wonderful for mixed ages. Best with 5 or 6.",
+  "description": "Describe a dreamlike picture card cleverly — not too obvious, not too vague.",
+  "tags": {
+   "minPlayers": 3,
+   "maxPlayers": 6,
+   "idealMin": 5,
+   "idealMax": 6,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [
+    "relax",
+    "silly"
+   ],
+   "strongMoods": [
+    "silly",
+    "relax"
+   ],
+   "interactions": [
+    "friendly"
+   ],
+   "strongInteractions": [
+    "friendly"
+   ],
+   "interests": [
+    "creative"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 1,
+   "family": "dixit",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "gobble-till-you-wobble",
+  "gameTitle": "Gobble Till You Wobble!",
+  "inventoryName": "GOBBLE WOBBLE",
+  "inventoryNames": [
+   "GOBBLE WOBBLE"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Eating Dexterity",
+  "playerCount": "2–6",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "15 mins",
+  "difficulty": 1,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 3,
+  "vibeAndConflict": "Dexterity",
+  "targetAudience": "Families, kids",
+  "minimumAge": 6,
+  "dataConfidence": "medium",
+  "notes": "Sheet had players 2–6, 15 minutes, ages 6+, and no weight. Dexterity; give it a wipeable surface.",
+  "description": "A wobbly stacking game for little ones.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 15,
+   "maxTime": 15,
+   "moods": [
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "dexterity"
+   ],
+   "groupTypes": [
+    "family",
+    "kids"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 1,
+   "family": "gobble-till-you-wobble",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "pictureka",
+  "gameTitle": "Pictureka!",
+  "inventoryName": "PICTUREKA",
+  "inventoryNames": [
+   "PICTUREKA"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Picture Search Race",
+  "playerCount": "2–7",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.1,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 4,
+  "vibeAndConflict": "High-energy party",
+  "targetAudience": "Families, kids",
+  "minimumAge": 6,
+  "dataConfidence": "high",
+  "notes": "Visual and language-light.",
+  "description": "Race to find hidden pictures on the busy board.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 7,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [
+    "silly"
+   ],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [
+    "friendly"
+   ],
+   "interests": [
+    "creative",
+    "dexterity"
+   ],
+   "groupTypes": [
+    "family",
+    "kids"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 3,
+   "conflictLevel": 2,
+   "family": "pictureka",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "articulate",
+  "gameTitle": "Articulate!",
+  "inventoryName": "ARTICULATE",
+  "inventoryNames": [
+   "ARTICULATE"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Team Description Party",
+  "playerCount": "4–8",
+  "idealPlayerCount": "6 players",
+  "estimatedPlaytime": "60 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.24,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Large",
+  "staffTeachMinutes": 5,
+  "vibeAndConflict": "Word party",
+  "targetAudience": "Casual groups, families, large groups",
+  "minimumAge": 12,
+  "dataConfidence": "high",
+  "notes": "Team game. Needs spoken English and a bit of space between teams.",
+  "description": "Describe as many words as you can for your team before time runs out.",
+  "tags": {
+   "minPlayers": 4,
+   "maxPlayers": 8,
+   "idealMin": 6,
+   "idealMax": 6,
+   "minTime": 60,
+   "maxTime": 60,
+   "moods": [
+    "silly"
+   ],
+   "strongMoods": [
+    "silly"
+   ],
+   "interactions": [
+    "coop",
+    "teams"
+   ],
+   "strongInteractions": [
+    "coop",
+    "teams"
+   ],
+   "interests": [
+    "words"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "large",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 1,
+   "family": "articulate",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "unidentified-spill",
+  "gameTitle": "Unidentified: Spill",
+  "inventoryName": "SPILL",
+  "inventoryNames": [
+   "SPILL"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Unknown",
+  "playerCount": "Unknown",
+  "idealPlayerCount": "Unknown",
+  "estimatedPlaytime": "Unknown",
+  "difficulty": null,
+  "bggComplexity": null,
+  "setupTime": "Unknown",
+  "tableFootprint": "Unknown",
+  "staffTeachMinutes": null,
+  "vibeAndConflict": "Unknown",
+  "targetAudience": "Unknown until the box is checked",
+  "minimumAge": null,
+  "dataConfidence": "low",
+  "notes": "No single published game could be tied to this inventory name.",
+  "description": "A balance game — don’t let it spill!",
+  "tags": {
+   "minPlayers": null,
+   "maxPlayers": null,
+   "idealMin": null,
+   "idealMax": null,
+   "minTime": null,
+   "maxTime": null,
+   "moods": [],
+   "strongMoods": [],
+   "interactions": [],
+   "strongInteractions": [],
+   "interests": [],
+   "groupTypes": [],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "unidentified-spill",
+   "isExpansion": false,
+   "excluded": "low-confidence"
+  }
+ },
+ {
+  "id": "rummikub",
+  "gameTitle": "Rummikub",
+  "inventoryName": "RUMMIKUB",
+  "inventoryNames": [
+   "RUMMIKUB"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Tile Rummy",
+  "playerCount": "2–4",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "60 mins",
+  "difficulty": 2,
+  "bggComplexity": 1.71,
+  "setupTime": "Medium (3–10 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 10,
+  "vibeAndConflict": "Light strategy",
+  "targetAudience": "Families, casual groups",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Familiar to many Indian guests via rummy. Sorting tiles takes a few minutes.",
+  "description": "Build runs and groups of number tiles — a beloved classic.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 4,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 60,
+   "maxTime": 60,
+   "moods": [
+    "relax",
+    "think"
+   ],
+   "strongMoods": [
+    "relax"
+   ],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [
+    "solo"
+   ],
+   "interests": [
+    "strategy",
+    "classic"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 1,
+   "conflictLevel": 2,
+   "family": "rummikub",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "diceup",
+  "gameTitle": "DiceUp",
+  "inventoryName": "DICEUP",
+  "inventoryNames": [
+   "DICEUP"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Dice-and-Card Race",
+  "playerCount": "2–8",
+  "idealPlayerCount": "5–6 players",
+  "estimatedPlaytime": "20 mins",
+  "difficulty": 1,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 5,
+  "vibeAndConflict": "Light party",
+  "targetAudience": "Casual groups, families",
+  "minimumAge": 8,
+  "dataConfidence": "medium",
+  "notes": "Publisher says 2–8, about 20 minutes. One product page says ages 8+ and another says 14+. No BGG weight.",
+  "description": "Roll dice and race to match the cards in front of you before anyone else.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 8,
+   "idealMin": 5,
+   "idealMax": 6,
+   "minTime": 20,
+   "maxTime": 20,
+   "moods": [
+    "compete",
+    "silly"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "cards"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 2,
+   "family": "diceup",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "scotland-yard",
+  "gameTitle": "Scotland Yard",
+  "inventoryName": "SCOTLAND YARD",
+  "inventoryNames": [
+   "SCOTLAND YARD"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Hidden-Movement Chase",
+  "playerCount": "2–6",
+  "idealPlayerCount": "5 players",
+  "estimatedPlaytime": "45 mins",
+  "difficulty": 3,
+  "bggComplexity": 1.95,
+  "setupTime": "Medium (3–10 mins)",
+  "tableFootprint": "Large",
+  "staffTeachMinutes": 12,
+  "vibeAndConflict": "Low-conflict deduction",
+  "targetAudience": "Families, casual groups",
+  "minimumAge": 10,
+  "dataConfidence": "high",
+  "notes": "Best with one Mr. X and four detectives. The board needs a full four-person table.",
+  "description": "One player is secret Mr. X; the rest team up as detectives to catch them across London.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 5,
+   "idealMax": 5,
+   "minTime": 45,
+   "maxTime": 45,
+   "moods": [
+    "mystery"
+   ],
+   "strongMoods": [
+    "mystery"
+   ],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "mystery"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "scotland-yard",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "tapple",
+  "gameTitle": "Tapple",
+  "inventoryName": "TAPPLE",
+  "inventoryNames": [
+   "TAPPLE"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Letter Category Wheel",
+  "playerCount": "2–8",
+  "idealPlayerCount": "4–6 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.02,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 3,
+  "vibeAndConflict": "Word party",
+  "targetAudience": "Families, casual groups",
+  "minimumAge": 8,
+  "dataConfidence": "medium",
+  "notes": "Sheet decoded to 2–10. Current Tapple retail is 2–8, so 2–8 is used.",
+  "description": "Tap a letter, say a word in the category — before the timer buzzes.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 8,
+   "idealMin": 4,
+   "idealMax": 6,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [
+    "silly",
+    "energetic"
+   ],
+   "interactions": [
+    "teams"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "words"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 1,
+   "family": "tapple",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "topple",
+  "gameTitle": "Topple",
+  "inventoryName": "TOPPLE",
+  "inventoryNames": [
+   "TOPPLE"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Balancing Block Stack",
+  "playerCount": "2–4",
+  "idealPlayerCount": "3 players",
+  "estimatedPlaytime": "20 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.23,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 4,
+  "vibeAndConflict": "Dexterity",
+  "targetAudience": "Families, first-time visitors",
+  "minimumAge": 6,
+  "dataConfidence": "high",
+  "notes": "Physical stacking. Keep away from the edge of a small café table.",
+  "description": "Stack pieces on a wobbly tray without tipping it over.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 4,
+   "idealMin": 3,
+   "idealMax": 3,
+   "minTime": 20,
+   "maxTime": 20,
+   "moods": [
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [
+    "energetic"
+   ],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "dexterity"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 1,
+   "family": "topple",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "blokus",
+  "gameTitle": "Blokus",
+  "inventoryName": "BLOKUS XL",
+  "inventoryNames": [
+   "BLOKUS XL"
+  ],
+  "alias": "Standard Blokus rules (XL box)",
+  "quantity": 1,
+  "theme": "Territory Tile Placement",
+  "playerCount": "2–4",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 2,
+  "bggComplexity": 1.73,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Large",
+  "staffTeachMinutes": 6,
+  "vibeAndConflict": "Light strategy",
+  "targetAudience": "Families, casual groups, date night",
+  "minimumAge": 7,
+  "dataConfidence": "high",
+  "notes": "XL is a larger-component edition of Blokus, not a different ruleset. Needs a big table. Best at 4.",
+  "description": "Place colourful pieces so they touch your own only at the corners — and block everyone else out.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 4,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "strategy"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 1,
+   "conflictLevel": 2,
+   "family": "blokus",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "strike-4",
+  "gameTitle": "Strike 4",
+  "inventoryName": "STRIKE 4",
+  "inventoryNames": [
+   "STRIKE 4"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Four-in-a-Row Abstract",
+  "playerCount": "2",
+  "idealPlayerCount": "2 players",
+  "estimatedPlaytime": "10 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.18,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 1,
+  "vibeAndConflict": "Abstract duel",
+  "targetAudience": "Kids, date night, first-time visitors",
+  "minimumAge": 6,
+  "dataConfidence": "high",
+  "notes": "Funskool disc-dropping game with the same decision as Connect Four. Weight is taken from Connect Four because Strike 4 has no separate BGG rating.",
+  "description": "A four-in-a-row style game.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 2,
+   "idealMin": 2,
+   "idealMax": 2,
+   "minTime": 10,
+   "maxTime": 10,
+   "moods": [
+    "compete",
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "classic"
+   ],
+   "groupTypes": [
+    "adults",
+    "kids",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 3,
+   "family": "strike-4",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "othello",
+  "gameTitle": "Othello",
+  "inventoryName": "OTHELLO",
+  "inventoryNames": [
+   "OTHELLO"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Disc-Flipping Abstract",
+  "playerCount": "2",
+  "idealPlayerCount": "2 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 3,
+  "bggComplexity": 2.07,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 5,
+  "vibeAndConflict": "Abstract duel",
+  "targetAudience": "Date night, strategy-curious pairs",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Rules are short. Good play is much deeper than the teach suggests.",
+  "description": "Flip discs by outflanking — easy to learn, hard to master.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 2,
+   "idealMin": 2,
+   "idealMax": 2,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [
+    "compete",
+    "think"
+   ],
+   "strongMoods": [
+    "compete",
+    "think"
+   ],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "classic"
+   ],
+   "groupTypes": [
+    "adults"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 3,
+   "family": "othello",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "abalone",
+  "gameTitle": "Abalone",
+  "inventoryName": "ABALONE",
+  "inventoryNames": [
+   "ABALONE"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Marble Sumito Abstract",
+  "playerCount": "2",
+  "idealPlayerCount": "2 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 3,
+  "bggComplexity": 2.15,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 6,
+  "vibeAndConflict": "Abstract duel",
+  "targetAudience": "Date night, strategy-curious pairs",
+  "minimumAge": 7,
+  "dataConfidence": "high",
+  "notes": "Quiet two-player strategy. Easy to reset between guests.",
+  "description": "Push your opponent’s marbles off the hexagonal board.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 2,
+   "idealMin": 2,
+   "idealMax": 2,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [
+    "compete",
+    "think"
+   ],
+   "strongMoods": [
+    "compete",
+    "think"
+   ],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "classic"
+   ],
+   "groupTypes": [
+    "adults"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 1,
+   "conflictLevel": 3,
+   "family": "abalone",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "guess-who",
+  "gameTitle": "Guess Who?",
+  "inventoryName": "GUESS WHO",
+  "inventoryNames": [
+   "GUESS WHO"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Yes-or-No Deduction",
+  "playerCount": "2",
+  "idealPlayerCount": "2 players",
+  "estimatedPlaytime": "20 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.09,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 2,
+  "vibeAndConflict": "Friendly family",
+  "targetAudience": "Kids, families, date night",
+  "minimumAge": 6,
+  "dataConfidence": "high",
+  "notes": "Useful for a child plus an adult, or as a waiting game.",
+  "description": "Ask yes/no questions to discover your opponent’s secret character.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 2,
+   "idealMin": 2,
+   "idealMax": 2,
+   "minTime": 20,
+   "maxTime": 20,
+   "moods": [
+    "relax"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [
+    "friendly"
+   ],
+   "interests": [
+    "words",
+    "mystery"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "kids"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "guess-who",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "memory-chess",
+  "gameTitle": "Memory Chess",
+  "inventoryName": "MEMORY CHESS",
+  "inventoryNames": [
+   "MEMORY CHESS"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Memory Chess Puzzle",
+  "playerCount": "2",
+  "idealPlayerCount": "2 players",
+  "estimatedPlaytime": "15–20 mins",
+  "difficulty": null,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 5,
+  "vibeAndConflict": "Abstract duel",
+  "targetAudience": "Kids, families",
+  "minimumAge": null,
+  "dataConfidence": "low",
+  "notes": "A 2016 BGG entry exists, but player count, time, and weight could not be refreshed. Figures here are provisional.",
+  "description": "A memory twist on chess.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 2,
+   "idealMin": 2,
+   "idealMax": 2,
+   "minTime": 15,
+   "maxTime": 20,
+   "moods": [
+    "compete",
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "classic"
+   ],
+   "groupTypes": [
+    "family",
+    "kids"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 3,
+   "family": "memory-chess",
+   "isExpansion": false,
+   "excluded": "low-confidence"
+  }
+ },
+ {
+  "id": "sorry",
+  "gameTitle": "Sorry!",
+  "inventoryName": "SORRY",
+  "inventoryNames": [
+   "SORRY"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Slide-and-Bump Race",
+  "playerCount": "2–4",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 1,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 5,
+  "vibeAndConflict": "Friendly family",
+  "targetAudience": "Families, kids",
+  "minimumAge": 6,
+  "dataConfidence": "medium",
+  "notes": "Classic Parker Brothers race. No weight was stored in the sheet.",
+  "description": "Draw cards to move pawns home — and bump opponents back to start.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 4,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [
+    "relax"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "classic"
+   ],
+   "groupTypes": [
+    "family",
+    "kids"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "sorry",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "cuff-the-bluff",
+  "gameTitle": "Cuff the Bluff",
+  "inventoryName": "CUFF THE BLUFF",
+  "inventoryNames": [
+   "CUFF THE BLUFF"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Dice Bluffing",
+  "playerCount": "2–6",
+  "idealPlayerCount": "4–5 players",
+  "estimatedPlaytime": "20–25 mins",
+  "difficulty": 2,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 6,
+  "vibeAndConflict": "Bluffing",
+  "targetAudience": "Casual groups, teens, families",
+  "minimumAge": 12,
+  "dataConfidence": "medium",
+  "notes": "Gouda Games. Sheet and publisher agree on 2–6, ages 12+, 20–25 minutes. No BGG weight was recorded.",
+  "description": "A bluffing card game.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 4,
+   "idealMax": 5,
+   "minTime": 20,
+   "maxTime": 25,
+   "moods": [
+    "compete"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "bluff"
+   ],
+   "strongInteractions": [
+    "bluff"
+   ],
+   "interests": [
+    "mystery",
+    "cards"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 2,
+   "conflictLevel": 3,
+   "family": "cuff-the-bluff",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "kingdomino",
+  "gameTitle": "Kingdomino",
+  "inventoryName": "KING DOMINO",
+  "inventoryNames": [
+   "KING DOMINO"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Tile Kingdom Drafting",
+  "playerCount": "2–4",
+  "idealPlayerCount": "2 players",
+  "estimatedPlaytime": "15–25 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.24,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 5,
+  "vibeAndConflict": "Light strategy",
+  "targetAudience": "First-time visitors, families, date night",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "One of the safest first modern games in the library. Excellent at 2.",
+  "description": "Pick domino tiles to build a small kingdom — quick and satisfying.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 4,
+   "idealMin": 2,
+   "idealMax": 2,
+   "minTime": 15,
+   "maxTime": 25,
+   "moods": [
+    "relax",
+    "think"
+   ],
+   "strongMoods": [
+    "relax",
+    "think"
+   ],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [
+    "solo",
+    "friendly"
+   ],
+   "interests": [
+    "strategy",
+    "adventure"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 2,
+   "family": "kingdomino",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "treasure-island",
+  "gameTitle": "Treasure Island",
+  "inventoryName": "TREASURE ISLAND",
+  "inventoryNames": [
+   "TREASURE ISLAND"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Hidden-Treasure Deduction",
+  "playerCount": "2–5",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "45 mins",
+  "difficulty": 3,
+  "bggComplexity": 2.2,
+  "setupTime": "Medium (3–10 mins)",
+  "tableFootprint": "Large",
+  "staffTeachMinutes": 15,
+  "vibeAndConflict": "Low-conflict deduction",
+  "targetAudience": "Casual groups ready for a longer teach",
+  "minimumAge": 10,
+  "dataConfidence": "medium",
+  "notes": "Sheet player cell decoded to 2–5. Some retail listings say 2–4. Confirm the edition. Heavier teach than Cluedo.",
+  "description": "Search for Long John Silver’s treasure using clues and rumours.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 5,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 45,
+   "maxTime": 45,
+   "moods": [
+    "mystery"
+   ],
+   "strongMoods": [
+    "mystery"
+   ],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "mystery",
+    "adventure"
+   ],
+   "groupTypes": [
+    "adults",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "treasure-island",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "herd-mentality",
+  "gameTitle": "Herd Mentality",
+  "inventoryName": "HERD MENTALITY",
+  "inventoryNames": [
+   "HERD MENTALITY"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Answer-Matching Party",
+  "playerCount": "4–20",
+  "idealPlayerCount": "6–10 players",
+  "estimatedPlaytime": "20–30 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.0,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 3,
+  "vibeAndConflict": "High-energy party",
+  "targetAudience": "Casual groups, large groups, first-time visitors",
+  "minimumAge": 10,
+  "dataConfidence": "high",
+  "notes": "Sheet had no player count. Publisher range is 4 or more, commonly played up to about 20. Best when the group is big.",
+  "description": "Answer questions — but try to give the same answer as everyone else!",
+  "tags": {
+   "minPlayers": 4,
+   "maxPlayers": 20,
+   "idealMin": 6,
+   "idealMax": 10,
+   "minTime": 20,
+   "maxTime": 30,
+   "moods": [
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [
+    "silly"
+   ],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "cards"
+   ],
+   "groupTypes": [
+    "adults",
+    "large",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 3,
+   "conflictLevel": 2,
+   "family": "herd-mentality",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "onitama",
+  "gameTitle": "Onitama",
+  "inventoryName": "ONITAMA",
+  "inventoryNames": [
+   "ONITAMA"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Martial Chess Duel",
+  "playerCount": "2",
+  "idealPlayerCount": "2 players",
+  "estimatedPlaytime": "15–20 mins",
+  "difficulty": 2,
+  "bggComplexity": 1.66,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 5,
+  "vibeAndConflict": "Abstract duel",
+  "targetAudience": "Date night, strategy-curious pairs",
+  "minimumAge": 10,
+  "dataConfidence": "high",
+  "notes": "Chess-like without needing to know chess. The Way of the Wind expansion is separate and not required.",
+  "description": "A quick martial-arts chess where moves come from shared cards.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 2,
+   "idealMin": 2,
+   "idealMax": 2,
+   "minTime": 15,
+   "maxTime": 20,
+   "moods": [
+    "compete",
+    "think"
+   ],
+   "strongMoods": [
+    "think"
+   ],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "classic"
+   ],
+   "groupTypes": [
+    "adults"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 3,
+   "family": "onitama",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "onitama-way-of-the-wind",
+  "gameTitle": "Onitama: Way of the Wind",
+  "inventoryName": "ONITAMA WAY OF WIND",
+  "inventoryNames": [
+   "ONITAMA WAY OF WIND"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Martial Chess Expansion",
+  "playerCount": "2",
+  "idealPlayerCount": "2 players",
+  "estimatedPlaytime": "15–20 mins",
+  "difficulty": 3,
+  "bggComplexity": 2.33,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 8,
+  "vibeAndConflict": "Abstract duel",
+  "targetAudience": "Pairs who already liked Onitama",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Expansion. Do not offer it without the base Onitama set.",
+  "description": "An Onitama expansion adding the wind spirit piece.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 2,
+   "idealMin": 2,
+   "idealMax": 2,
+   "minTime": 15,
+   "maxTime": 20,
+   "moods": [
+    "compete",
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "classic"
+   ],
+   "groupTypes": [],
+   "teachEffort": 2,
+   "partyEnergy": 1,
+   "conflictLevel": 3,
+   "family": "onitama",
+   "isExpansion": true,
+   "excluded": null
+  }
+ },
+ {
+  "id": "jenga",
+  "gameTitle": "Jenga",
+  "inventoryName": "JENGA",
+  "inventoryNames": [
+   "JENGA"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Tower Dexterity",
+  "playerCount": "1–8",
+  "idealPlayerCount": "3–4 players",
+  "estimatedPlaytime": "20 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.1,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 1,
+  "vibeAndConflict": "Dexterity",
+  "targetAudience": "First-time visitors, families, casual groups",
+  "minimumAge": 6,
+  "dataConfidence": "high",
+  "notes": "Needs vertical clearance and a stable table, not a large footprint.",
+  "description": "Pull out blocks and stack them on top — don’t make the tower fall!",
+  "tags": {
+   "minPlayers": 1,
+   "maxPlayers": 8,
+   "idealMin": 3,
+   "idealMax": 4,
+   "minTime": 20,
+   "maxTime": 20,
+   "moods": [
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [
+    "energetic"
+   ],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "dexterity"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 1,
+   "family": "jenga",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "ludo",
+  "gameTitle": "Ludo",
+  "inventoryName": "LUDO PACK",
+  "inventoryNames": [
+   "LUDO PACK"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Race-and-Capture Classic",
+  "playerCount": "2–4",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 1,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 4,
+  "vibeAndConflict": "Friendly family",
+  "targetAudience": "Families, kids, first-time visitors",
+  "minimumAge": 4,
+  "dataConfidence": "high",
+  "notes": "Traditional mass-market game. No meaningful BGG complexity rating is being claimed.",
+  "description": "Roll dice and race your pieces home — a family favourite.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 4,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [
+    "relax"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "classic"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "kids",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "ludo",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "chess",
+  "gameTitle": "Chess",
+  "inventoryName": "CHESS BOARD 1",
+  "inventoryNames": [
+   "CHESS BOARD 1",
+   "CHESS MAT"
+  ],
+  "alias": null,
+  "quantity": 5,
+  "theme": "Classic Abstract Strategy",
+  "playerCount": "2",
+  "idealPlayerCount": "2 players",
+  "estimatedPlaytime": "30–90 mins",
+  "difficulty": 5,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 15,
+  "vibeAndConflict": "Abstract duel",
+  "targetAudience": "Strategy-curious pairs, serious players",
+  "minimumAge": 6,
+  "dataConfidence": "high",
+  "notes": "Equipment row for the same game as Chess Mat. Teach covers legal moves only; mastery is not a café teach. BGG weight is commonly above 3.5 but was not in the sheet, so it is left blank.",
+  "description": "The classic two-player strategy game — checkmate your opponent's king.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 2,
+   "idealMin": 2,
+   "idealMax": 2,
+   "minTime": 30,
+   "maxTime": 90,
+   "moods": [
+    "compete",
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "strategy",
+    "classic"
+   ],
+   "groupTypes": [
+    "adults"
+   ],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 3,
+   "family": "chess",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "battleship",
+  "gameTitle": "Battleship",
+  "inventoryName": "BATTLESHIP",
+  "inventoryNames": [
+   "BATTLESHIP"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Hidden-Fleet Deduction",
+  "playerCount": "2",
+  "idealPlayerCount": "2 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.2,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 4,
+  "vibeAndConflict": "Low-conflict deduction",
+  "targetAudience": "Kids, families, date night",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Quiet pair game. Two boards mean a medium footprint despite only two players.",
+  "description": "Guess coordinates to sink your opponent’s hidden fleet.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 2,
+   "idealMin": 2,
+   "idealMax": 2,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [
+    "mystery"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "mystery"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "kids"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "battleship",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "hues-and-cues",
+  "gameTitle": "Hues and Cues",
+  "inventoryName": "HUES AND CUES",
+  "inventoryNames": [
+   "HUES AND CUES"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Color Communication",
+  "playerCount": "3–10",
+  "idealPlayerCount": "6 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.06,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 4,
+  "vibeAndConflict": "Low-conflict party",
+  "targetAudience": "First-time visitors, families, large groups",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Almost no language required. Excellent for mixed groups.",
+  "description": "Give one-word clues to help others find a colour among 480 shades.",
+  "tags": {
+   "minPlayers": 3,
+   "maxPlayers": 10,
+   "idealMin": 6,
+   "idealMax": 6,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [
+    "relax",
+    "silly"
+   ],
+   "strongMoods": [
+    "silly",
+    "relax"
+   ],
+   "interactions": [
+    "friendly"
+   ],
+   "strongInteractions": [
+    "friendly"
+   ],
+   "interests": [
+    "creative"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "large",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 2,
+   "conflictLevel": 1,
+   "family": "hues-and-cues",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "exit-the-game",
+  "gameTitle": "Exit: The Game",
+  "inventoryName": "EXIT",
+  "inventoryNames": [
+   "EXIT"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Cooperative Escape Room",
+  "playerCount": "1–4",
+  "idealPlayerCount": "2 players",
+  "estimatedPlaytime": "60–90 mins",
+  "difficulty": 3,
+  "bggComplexity": null,
+  "setupTime": "Medium (3–10 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 8,
+  "vibeAndConflict": "Low-conflict co-op",
+  "targetAudience": "Date night, puzzle fans, casual groups",
+  "minimumAge": 12,
+  "dataConfidence": "low",
+  "notes": "The specific scenario is not named. Stats describe a typical Kosmos Exit box, not one verified title. Some scenarios destroy components. Staff should confirm the box is reusable or disposable.",
+  "description": "An escape room in a box — solve puzzles together to break out.",
+  "tags": {
+   "minPlayers": 1,
+   "maxPlayers": 4,
+   "idealMin": 2,
+   "idealMax": 2,
+   "minTime": 60,
+   "maxTime": 90,
+   "moods": [
+    "mystery",
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "coop"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "mystery",
+    "strategy"
+   ],
+   "groupTypes": [
+    "adults",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "exit-the-game",
+   "isExpansion": false,
+   "excluded": "low-confidence"
+  }
+ },
+ {
+  "id": "unidentified-football",
+  "gameTitle": "Unidentified: Football",
+  "inventoryName": "FOOTBALL",
+  "inventoryNames": [
+   "FOOTBALL"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Unknown",
+  "playerCount": "Unknown",
+  "idealPlayerCount": "Unknown",
+  "estimatedPlaytime": "Unknown",
+  "difficulty": null,
+  "bggComplexity": null,
+  "setupTime": "Unknown",
+  "tableFootprint": "Unknown",
+  "staffTeachMinutes": null,
+  "vibeAndConflict": "Unknown",
+  "targetAudience": "Unknown until the box is checked",
+  "minimumAge": null,
+  "dataConfidence": "low",
+  "notes": "Could be a sports simulation, table football, or a local title. No stats assigned.",
+  "description": "A table football style game.",
+  "tags": {
+   "minPlayers": null,
+   "maxPlayers": null,
+   "idealMin": null,
+   "idealMax": null,
+   "minTime": null,
+   "maxTime": null,
+   "moods": [],
+   "strongMoods": [],
+   "interactions": [],
+   "strongInteractions": [],
+   "interests": [],
+   "groupTypes": [],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "unidentified-football",
+   "isExpansion": false,
+   "excluded": "low-confidence"
+  }
+ },
+ {
+  "id": "stratego",
+  "gameTitle": "Stratego",
+  "inventoryName": "STRATEGO",
+  "inventoryNames": [
+   "STRATEGO"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Hidden-Rank Battle",
+  "playerCount": "2",
+  "idealPlayerCount": "2 players",
+  "estimatedPlaytime": "45 mins",
+  "difficulty": 3,
+  "bggComplexity": 1.85,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 10,
+  "vibeAndConflict": "High-conflict strategy",
+  "targetAudience": "Date night, strategy-curious pairs",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Quiet but directly competitive. Memory of enemy ranks matters.",
+  "description": "Hidden army ranks — capture the enemy flag with bluff and tactics.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 2,
+   "idealMin": 2,
+   "idealMax": 2,
+   "minTime": 45,
+   "maxTime": 45,
+   "moods": [
+    "compete",
+    "think"
+   ],
+   "strongMoods": [
+    "compete",
+    "think"
+   ],
+   "interactions": [
+    "bluff",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "mystery",
+    "strategy"
+   ],
+   "groupTypes": [
+    "adults"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 1,
+   "conflictLevel": 3,
+   "family": "stratego",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "texas-hold-em-poker",
+  "gameTitle": "Texas Hold'em Poker",
+  "inventoryName": "POKER",
+  "inventoryNames": [
+   "POKER"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Betting Card Game",
+  "playerCount": "2–10",
+  "idealPlayerCount": "6 players",
+  "estimatedPlaytime": "60–120 mins",
+  "difficulty": 3,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 15,
+  "vibeAndConflict": "Bluffing",
+  "targetAudience": "Adults only if played for stakes",
+  "minimumAge": 12,
+  "dataConfidence": "medium",
+  "notes": "Inventory says Poker, not a single boxed edition. Hold'em is the café default. Use chips, not money, if teens are playing. Bicycle Cards can supply the deck.",
+  "description": "The classic betting card game — played with chips only, no real money.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 10,
+   "idealMin": 6,
+   "idealMax": 6,
+   "minTime": 60,
+   "maxTime": 120,
+   "moods": [
+    "compete"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "bluff"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "mystery",
+    "cards"
+   ],
+   "groupTypes": [],
+   "teachEffort": 3,
+   "partyEnergy": 2,
+   "conflictLevel": 3,
+   "family": "texas-hold-em-poker",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "clack",
+  "gameTitle": "CLACK!",
+  "inventoryName": "CLACK",
+  "inventoryNames": [
+   "CLACK"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Speed Reflex Grab",
+  "playerCount": "2–6",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "10 mins",
+  "difficulty": 1,
+  "bggComplexity": 1.07,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 2,
+  "vibeAndConflict": "High-energy party",
+  "targetAudience": "Kids, families, first-time visitors",
+  "minimumAge": 4,
+  "dataConfidence": "high",
+  "notes": "Very fast and language-light. Good for young children.",
+  "description": "A fast magnetic matching game.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 10,
+   "maxTime": 10,
+   "moods": [
+    "energetic",
+    "silly"
+   ],
+   "strongMoods": [
+    "silly",
+    "energetic"
+   ],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [
+    "friendly"
+   ],
+   "interests": [
+    "dexterity"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "kids",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 3,
+   "conflictLevel": 2,
+   "family": "clack",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "ticket-to-ride-europe",
+  "gameTitle": "Ticket to Ride: Europe",
+  "inventoryName": "TICKET TO RIDE EUROPE",
+  "inventoryNames": [
+   "TICKET TO RIDE EUROPE"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "European Train Routes",
+  "playerCount": "2–5",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "30–60 mins",
+  "difficulty": 3,
+  "bggComplexity": 1.92,
+  "setupTime": "Medium (3–10 mins)",
+  "tableFootprint": "Large",
+  "staffTeachMinutes": 12,
+  "vibeAndConflict": "Low-conflict strategy",
+  "targetAudience": "First-time visitors, families, casual groups",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Best first modern board game when the group has 45–60 minutes. Blocking exists but is usually mild.",
+  "description": "Collect coloured train cards and claim railway routes across Europe.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 5,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 30,
+   "maxTime": 60,
+   "moods": [
+    "relax",
+    "think"
+   ],
+   "strongMoods": [
+    "think"
+   ],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [
+    "solo"
+   ],
+   "interests": [
+    "strategy",
+    "adventure"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "ticket-to-ride-europe",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "7-wonders",
+  "gameTitle": "7 Wonders",
+  "inventoryName": "7 WONDERS",
+  "inventoryNames": [
+   "7 WONDERS"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Ancient Civilization Drafting",
+  "playerCount": "2–7",
+  "idealPlayerCount": "4–5 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 3,
+  "bggComplexity": 2.31,
+  "setupTime": "Medium (3–10 mins)",
+  "tableFootprint": "Large",
+  "staffTeachMinutes": 18,
+  "vibeAndConflict": "Light strategy",
+  "targetAudience": "Casual groups ready for a modern game",
+  "minimumAge": 10,
+  "dataConfidence": "high",
+  "notes": "Latest retail includes a 2-player option. Teach is the hard part; the turns are fast. Sheet notes staff may not know it yet.",
+  "description": "Draft cards to build a great ancient civilization over three ages.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 7,
+   "idealMin": 4,
+   "idealMax": 5,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [
+    "think"
+   ],
+   "strongMoods": [
+    "think"
+   ],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "strategy",
+    "adventure"
+   ],
+   "groupTypes": [
+    "adults",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 2,
+   "family": "7-wonders",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "7-wonders-duel",
+  "gameTitle": "7 Wonders Duel",
+  "inventoryName": "7 WONDERS DUEL",
+  "inventoryNames": [
+   "7 WONDERS DUEL"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Ancient Civilization Duel",
+  "playerCount": "2",
+  "idealPlayerCount": "2 players",
+  "estimatedPlaytime": "30 mins",
+  "difficulty": 3,
+  "bggComplexity": 2.23,
+  "setupTime": "Medium (3–10 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 15,
+  "vibeAndConflict": "Light strategy",
+  "targetAudience": "Date night, strategy-curious pairs",
+  "minimumAge": 10,
+  "dataConfidence": "high",
+  "notes": "Better than base 7 Wonders for a couple. Still a real teach.",
+  "description": "The two-player take on 7 Wonders — tight and clever.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 2,
+   "idealMin": 2,
+   "idealMax": 2,
+   "minTime": 30,
+   "maxTime": 30,
+   "moods": [
+    "compete",
+    "think"
+   ],
+   "strongMoods": [
+    "compete",
+    "think"
+   ],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "strategy",
+    "adventure"
+   ],
+   "groupTypes": [
+    "adults"
+   ],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 2,
+   "family": "7-wonders",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "wingspan",
+  "gameTitle": "Wingspan",
+  "inventoryName": "WING SPAN",
+  "inventoryNames": [
+   "WING SPAN"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Bird Habitat Engine",
+  "playerCount": "1–5",
+  "idealPlayerCount": "3 players",
+  "estimatedPlaytime": "40–70 mins",
+  "difficulty": 3,
+  "bggComplexity": 2.48,
+  "setupTime": "Medium (3–10 mins)",
+  "tableFootprint": "Large",
+  "staffTeachMinutes": 20,
+  "vibeAndConflict": "Low-conflict strategy",
+  "targetAudience": "Strategy-curious groups, date night, solo guests",
+  "minimumAge": 10,
+  "dataConfidence": "high",
+  "notes": "Highest stored weight in the library. Calm and low conflict, but the iconography needs a careful teach.",
+  "description": "Attract beautiful birds to your wildlife reserves — calm and rewarding.",
+  "tags": {
+   "minPlayers": 1,
+   "maxPlayers": 5,
+   "idealMin": 3,
+   "idealMax": 3,
+   "minTime": 40,
+   "maxTime": 70,
+   "moods": [
+    "relax",
+    "think"
+   ],
+   "strongMoods": [
+    "think"
+   ],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [
+    "solo"
+   ],
+   "interests": [
+    "strategy"
+   ],
+   "groupTypes": [
+    "adults"
+   ],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "wingspan",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "catan",
+  "gameTitle": "Catan",
+  "inventoryName": "CATAN",
+  "inventoryNames": [
+   "CATAN"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Island Settlement Trading",
+  "playerCount": "3–4",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "60–120 mins",
+  "difficulty": 3,
+  "bggComplexity": 2.28,
+  "setupTime": "Medium (3–10 mins)",
+  "tableFootprint": "Large",
+  "staffTeachMinutes": 15,
+  "vibeAndConflict": "High-conflict strategy",
+  "targetAudience": "First-time visitors with an hour or more",
+  "minimumAge": 10,
+  "dataConfidence": "high",
+  "notes": "Base game is 3–4 only. Do not promise a fifth player unless an expansion is actually in the box.",
+  "description": "Gather resources, trade with friends and build settlements on an island.",
+  "tags": {
+   "minPlayers": 3,
+   "maxPlayers": 4,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 60,
+   "maxTime": 120,
+   "moods": [
+    "compete",
+    "think"
+   ],
+   "strongMoods": [
+    "compete",
+    "think"
+   ],
+   "interactions": [
+    "bluff",
+    "solo"
+   ],
+   "strongInteractions": [
+    "solo"
+   ],
+   "interests": [
+    "strategy",
+    "adventure"
+   ],
+   "groupTypes": [
+    "adults",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 3,
+   "family": "catan",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "pandemic",
+  "gameTitle": "Pandemic",
+  "inventoryName": "PANDEMIC",
+  "inventoryNames": [
+   "PANDEMIC"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Disease-Control Co-op",
+  "playerCount": "2–4",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "45 mins",
+  "difficulty": 3,
+  "bggComplexity": 2.39,
+  "setupTime": "Medium (3–10 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 15,
+  "vibeAndConflict": "Low-conflict co-op",
+  "targetAudience": "Casual groups who want to cooperate",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Players can quarterback one another. Staff should invite quieter players to take their own turns.",
+  "description": "Work together as a team of specialists to stop four diseases spreading.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 4,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 45,
+   "maxTime": 45,
+   "moods": [
+    "mystery",
+    "think"
+   ],
+   "strongMoods": [
+    "think",
+    "mystery"
+   ],
+   "interactions": [
+    "coop"
+   ],
+   "strongInteractions": [
+    "coop"
+   ],
+   "interests": [
+    "strategy",
+    "adventure"
+   ],
+   "groupTypes": [
+    "adults",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "pandemic",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "risk",
+  "gameTitle": "Risk",
+  "inventoryName": "RISK",
+  "inventoryNames": [
+   "RISK"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "World Conquest",
+  "playerCount": "2–6",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "120 mins",
+  "difficulty": 3,
+  "bggComplexity": 2.06,
+  "setupTime": "High (> 10 mins)",
+  "tableFootprint": "Large",
+  "staffTeachMinutes": 15,
+  "vibeAndConflict": "High-conflict strategy",
+  "targetAudience": "Groups who specifically ask for a long war game",
+  "minimumAge": 10,
+  "dataConfidence": "high",
+  "notes": "Sheet lists 120 minutes. Café sessions often run longer. Setup is high because of the armies. Offer it only when the group expects a long game.",
+  "description": "Command armies and conquer the world, one dice battle at a time.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 120,
+   "maxTime": 120,
+   "moods": [
+    "compete",
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "bluff",
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "strategy"
+   ],
+   "groupTypes": [],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 3,
+   "family": "risk",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "cluedo",
+  "gameTitle": "Cluedo",
+  "inventoryName": "CLUEDO",
+  "inventoryNames": [
+   "CLUEDO"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Mansion Murder Deduction",
+  "playerCount": "2–6",
+  "idealPlayerCount": "4 players",
+  "estimatedPlaytime": "45 mins",
+  "difficulty": 2,
+  "bggComplexity": 1.64,
+  "setupTime": "Medium (3–10 mins)",
+  "tableFootprint": "Large",
+  "staffTeachMinutes": 8,
+  "vibeAndConflict": "Low-conflict deduction",
+  "targetAudience": "Families, first-time visitors, casual groups",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Same game as Clue. Familiar and easy to teach. The board is large.",
+  "description": "Who did it, where, and with what? Deduce the solution first.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 6,
+   "idealMin": 4,
+   "idealMax": 4,
+   "minTime": 45,
+   "maxTime": 45,
+   "moods": [
+    "mystery"
+   ],
+   "strongMoods": [
+    "mystery"
+   ],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "mystery"
+   ],
+   "groupTypes": [
+    "adults",
+    "family",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 2,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "clue",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "clue-conspiracy",
+  "gameTitle": "Clue Conspiracy",
+  "inventoryName": "CLUE CONSPIRACY",
+  "inventoryNames": [
+   "CLUE CONSPIRACY"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Asymmetric Murder Deduction",
+  "playerCount": "4–10",
+  "idealPlayerCount": "6–8 players",
+  "estimatedPlaytime": "45 mins",
+  "difficulty": 3,
+  "bggComplexity": 2.29,
+  "setupTime": "Medium (3–10 mins)",
+  "tableFootprint": "Large",
+  "staffTeachMinutes": 15,
+  "vibeAndConflict": "Social deduction",
+  "targetAudience": "Casual groups, larger groups",
+  "minimumAge": 14,
+  "dataConfidence": "high",
+  "notes": "Not a reskin of classic Cluedo. Asymmetric roles and a 14+ age. Heavier teach.",
+  "description": "Hidden-role Clue — secret conspirators try to stop the party.",
+  "tags": {
+   "minPlayers": 4,
+   "maxPlayers": 10,
+   "idealMin": 6,
+   "idealMax": 8,
+   "minTime": 45,
+   "maxTime": 45,
+   "moods": [
+    "mystery",
+    "silly"
+   ],
+   "strongMoods": [
+    "mystery"
+   ],
+   "interactions": [
+    "bluff",
+    "teams"
+   ],
+   "strongInteractions": [
+    "teams",
+    "bluff"
+   ],
+   "interests": [
+    "mystery"
+   ],
+   "groupTypes": [
+    "adults",
+    "large",
+    "mixed",
+    "teens"
+   ],
+   "teachEffort": 3,
+   "partyEnergy": 2,
+   "conflictLevel": 2,
+   "family": "clue",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "harmonies",
+  "gameTitle": "Harmonies",
+  "inventoryName": "HARMONIES",
+  "inventoryNames": [
+   "HARMONIES"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Landscape Tile Harmony",
+  "playerCount": "1–4",
+  "idealPlayerCount": "2 players",
+  "estimatedPlaytime": "30–45 mins",
+  "difficulty": 3,
+  "bggComplexity": 2.01,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 12,
+  "vibeAndConflict": "Low-conflict strategy",
+  "targetAudience": "Date night, solo guests, strategy-curious groups",
+  "minimumAge": 10,
+  "dataConfidence": "high",
+  "notes": "Calm, pretty, and low conflict. A good modern step after Kingdomino.",
+  "description": "Place colourful tokens to build landscapes where animals love to live.",
+  "tags": {
+   "minPlayers": 1,
+   "maxPlayers": 4,
+   "idealMin": 2,
+   "idealMax": 2,
+   "minTime": 30,
+   "maxTime": 45,
+   "moods": [
+    "relax",
+    "think"
+   ],
+   "strongMoods": [
+    "relax",
+    "think"
+   ],
+   "interactions": [
+    "friendly",
+    "solo"
+   ],
+   "strongInteractions": [
+    "solo",
+    "friendly"
+   ],
+   "interests": [
+    "strategy",
+    "adventure"
+   ],
+   "groupTypes": [
+    "adults"
+   ],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "harmonies",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "corridor",
+  "gameTitle": "Corridor",
+  "inventoryName": "CORRIDOR",
+  "inventoryNames": [
+   "CORRIDOR"
+  ],
+  "alias": "Quoridor",
+  "quantity": 1,
+  "theme": "Path-Blocking Abstract",
+  "playerCount": "2–4",
+  "idealPlayerCount": "2 players",
+  "estimatedPlaytime": "15–20 mins",
+  "difficulty": 2,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 4,
+  "vibeAndConflict": "Abstract duel",
+  "targetAudience": "Date night, families, strategy-curious pairs",
+  "minimumAge": 8,
+  "dataConfidence": "high",
+  "notes": "Indian retail name for Quoridor. Same rules. BGG weight was not in the sheet and is left blank.",
+  "description": "Corridor (Quoridor): race your pawn to the far side while placing walls to slow everyone else down.",
+  "tags": {
+   "minPlayers": 2,
+   "maxPlayers": 4,
+   "idealMin": 2,
+   "idealMax": 2,
+   "minTime": 15,
+   "maxTime": 20,
+   "moods": [
+    "compete",
+    "think"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "solo"
+   ],
+   "strongInteractions": [],
+   "interests": [
+    "classic"
+   ],
+   "groupTypes": [
+    "adults",
+    "family"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 3,
+   "family": "corridor",
+   "isExpansion": false,
+   "excluded": null
+  }
+ },
+ {
+  "id": "brainvita",
+  "gameTitle": "Brainvita",
+  "inventoryName": "BRAINVITA",
+  "inventoryNames": [
+   "BRAINVITA"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Peg Solitaire Puzzle",
+  "playerCount": "1",
+  "idealPlayerCount": "1 player",
+  "estimatedPlaytime": "10–20 mins",
+  "difficulty": 2,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 2,
+  "vibeAndConflict": "Puzzle",
+  "targetAudience": "Solo guests, kids",
+  "minimumAge": 6,
+  "dataConfidence": "high",
+  "notes": "Indian name for peg solitaire. One player. Good at the counter, not as a group recommendation.",
+  "description": "A solo peg-jumping puzzle — try to leave just one marble.",
+  "tags": {
+   "minPlayers": 1,
+   "maxPlayers": 1,
+   "idealMin": 1,
+   "idealMax": 1,
+   "minTime": 10,
+   "maxTime": 20,
+   "moods": [
+    "relax"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "friendly"
+   ],
+   "strongInteractions": [],
+   "interests": [],
+   "groupTypes": [
+    "kids"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "brainvita",
+   "isExpansion": false,
+   "excluded": "solo-activity"
+  }
+ },
+ {
+  "id": "unidentified-crab",
+  "gameTitle": "Unidentified: Crab",
+  "inventoryName": "CRAB",
+  "inventoryNames": [
+   "CRAB"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Unknown",
+  "playerCount": "Unknown",
+  "idealPlayerCount": "Unknown",
+  "estimatedPlaytime": "Unknown",
+  "difficulty": null,
+  "bggComplexity": null,
+  "setupTime": "Unknown",
+  "tableFootprint": "Unknown",
+  "staffTeachMinutes": null,
+  "vibeAndConflict": "Unknown",
+  "targetAudience": "Unknown until the box is checked",
+  "minimumAge": null,
+  "dataConfidence": "low",
+  "notes": "No published tabletop game could be confidently matched to this name.",
+  "description": "A light family game.",
+  "tags": {
+   "minPlayers": null,
+   "maxPlayers": null,
+   "idealMin": null,
+   "idealMax": null,
+   "minTime": null,
+   "maxTime": null,
+   "moods": [],
+   "strongMoods": [],
+   "interactions": [],
+   "strongInteractions": [],
+   "interests": [],
+   "groupTypes": [],
+   "teachEffort": 3,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "unidentified-crab",
+   "isExpansion": false,
+   "excluded": "low-confidence"
+  }
+ },
+ {
+  "id": "superhero-puzzle",
+  "gameTitle": "Superhero Puzzle",
+  "inventoryName": "SUPERHERO PUZZLE",
+  "inventoryNames": [
+   "SUPERHERO PUZZLE"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Jigsaw Puzzle",
+  "playerCount": "1–2",
+  "idealPlayerCount": "1–2 players",
+  "estimatedPlaytime": "30–60 mins",
+  "difficulty": 1,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 1,
+  "vibeAndConflict": "Puzzle",
+  "targetAudience": "Kids, families, solo guests",
+  "minimumAge": null,
+  "dataConfidence": "low",
+  "notes": "Piece count and publisher were not recorded. Time assumes a standard café jigsaw.",
+  "description": "Put together a superhero jigsaw puzzle as a group.",
+  "tags": {
+   "minPlayers": 1,
+   "maxPlayers": 2,
+   "idealMin": 1,
+   "idealMax": 2,
+   "minTime": 30,
+   "maxTime": 60,
+   "moods": [
+    "relax"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "friendly"
+   ],
+   "strongInteractions": [],
+   "interests": [],
+   "groupTypes": [
+    "family",
+    "kids"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "superhero-puzzle",
+   "isExpansion": false,
+   "excluded": "solo-activity"
+  }
+ },
+ {
+  "id": "gocrazy-jigsaw",
+  "gameTitle": "Gocrazy Jigsaw",
+  "inventoryName": "GOCRAZY JIGSAW(100 PCS *2)",
+  "inventoryNames": [
+   "GOCRAZY JIGSAW(100 PCS *2)"
+  ],
+  "alias": null,
+  "quantity": 3,
+  "theme": "100-Piece Jigsaw",
+  "playerCount": "1–2",
+  "idealPlayerCount": "1–2 players",
+  "estimatedPlaytime": "30–45 mins",
+  "difficulty": 1,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Medium",
+  "staffTeachMinutes": 1,
+  "vibeAndConflict": "Puzzle",
+  "targetAudience": "Kids, families, solo guests",
+  "minimumAge": null,
+  "dataConfidence": "medium",
+  "notes": "Three identical inventory lines, so quantity is 3. Each line says 100 pieces times 2, which may mean two puzzles per box. Confirm contents.",
+  "description": "A jigsaw puzzle to build together while you chat.",
+  "tags": {
+   "minPlayers": 1,
+   "maxPlayers": 2,
+   "idealMin": 1,
+   "idealMax": 2,
+   "minTime": 30,
+   "maxTime": 45,
+   "moods": [
+    "relax"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "friendly"
+   ],
+   "strongInteractions": [],
+   "interests": [],
+   "groupTypes": [
+    "family",
+    "kids"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "gocrazy-jigsaw",
+   "isExpansion": false,
+   "excluded": "solo-activity"
+  }
+ },
+ {
+  "id": "unidentified-tetrix",
+  "gameTitle": "Unidentified: Tetrix",
+  "inventoryName": "TETRIX",
+  "inventoryNames": [
+   "TETRIX"
+  ],
+  "alias": null,
+  "quantity": 1,
+  "theme": "Spatial Block Puzzle",
+  "playerCount": "1",
+  "idealPlayerCount": "1 player",
+  "estimatedPlaytime": "15–30 mins",
+  "difficulty": null,
+  "bggComplexity": null,
+  "setupTime": "Low (< 3 mins)",
+  "tableFootprint": "Small",
+  "staffTeachMinutes": 2,
+  "vibeAndConflict": "Puzzle",
+  "targetAudience": "Solo guests, kids",
+  "minimumAge": null,
+  "dataConfidence": "low",
+  "notes": "Name matches both old PC Tetris clones and physical block puzzles. Confirm it is a physical puzzle before recommending it.",
+  "description": "A falling-blocks style puzzle game.",
+  "tags": {
+   "minPlayers": 1,
+   "maxPlayers": 1,
+   "idealMin": 1,
+   "idealMax": 1,
+   "minTime": 15,
+   "maxTime": 30,
+   "moods": [
+    "relax"
+   ],
+   "strongMoods": [],
+   "interactions": [
+    "friendly"
+   ],
+   "strongInteractions": [],
+   "interests": [],
+   "groupTypes": [
+    "kids"
+   ],
+   "teachEffort": 1,
+   "partyEnergy": 1,
+   "conflictLevel": 1,
+   "family": "unidentified-tetrix",
+   "isExpansion": false,
+   "excluded": "solo-activity"
+  }
+ }
+]
